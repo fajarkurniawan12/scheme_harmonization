@@ -1,0 +1,951 @@
+sku_id,product_name,brand,category_l1,category_l2,category_l3,supplier_id,unit_cost,unit_price,is_private_label,is_perishable,shelf_life_days
+SKU000001,Unilever Rice & Grains Product 1,Unilever,Grocery,Rice & Grains,Rice & Grains Type A,SUP397,253773.71,291989.69,False,False,337
+SKU000002,ABC Rice & Grains Product 2,ABC,Grocery,Rice & Grains,Rice & Grains Type B,SUP114,422052.35,535620.48,False,False,263
+SKU000003,MegaMart Own Rice & Grains Product 3,MegaMart Own,Grocery,Rice & Grains,Rice & Grains Type C,SUP433,322519.6,410577.57,True,False,395
+SKU000004,Samsung Rice & Grains Product 4,Samsung,Grocery,Rice & Grains,Rice & Grains Type D,SUP421,310963.67,344885.38,False,False,476
+SKU000005,Mayora Rice & Grains Product 5,Mayora,Grocery,Rice & Grains,Rice & Grains Type E,SUP450,244057.68,327380.55,False,False,595
+SKU000006,Unilever Rice & Grains Product 6,Unilever,Grocery,Rice & Grains,Rice & Grains Type A,SUP312,345863.72,396852.38,False,False,675
+SKU000007,ABC Rice & Grains Product 7,ABC,Grocery,Rice & Grains,Rice & Grains Type B,SUP467,305296.83,364455.65,False,False,506
+SKU000008,ABC Rice & Grains Product 8,ABC,Grocery,Rice & Grains,Rice & Grains Type C,SUP289,487810.19,555727.93,False,False,707
+SKU000009,ABC Rice & Grains Product 9,ABC,Grocery,Rice & Grains,Rice & Grains Type D,SUP330,124660.24,141708.35,False,False,433
+SKU000010,MegaMart Own Rice & Grains Product 10,MegaMart Own,Grocery,Rice & Grains,Rice & Grains Type E,SUP415,30049.62,41577.12,True,False,608
+SKU000011,Nestle Rice & Grains Product 11,Nestle,Grocery,Rice & Grains,Rice & Grains Type A,SUP469,407671.53,562637.86,False,False,500
+SKU000012,Nestle Rice & Grains Product 12,Nestle,Grocery,Rice & Grains,Rice & Grains Type B,SUP355,251641.44,315663.41,False,False,495
+SKU000013,Unilever Rice & Grains Product 13,Unilever,Grocery,Rice & Grains,Rice & Grains Type C,SUP223,472890.24,591885.19,False,False,400
+SKU000014,Indofood Rice & Grains Product 14,Indofood,Grocery,Rice & Grains,Rice & Grains Type D,SUP434,30017.5,37475.9,False,False,661
+SKU000015,Indofood Rice & Grains Product 15,Indofood,Grocery,Rice & Grains,Rice & Grains Type E,SUP235,424350.32,521644.65,False,False,554
+SKU000016,ABC Rice & Grains Product 16,ABC,Grocery,Rice & Grains,Rice & Grains Type A,SUP387,27394.99,30554.93,False,False,379
+SKU000017,Mayora Rice & Grains Product 17,Mayora,Grocery,Rice & Grains,Rice & Grains Type B,SUP491,41398.22,51800.63,False,False,466
+SKU000018,Unilever Rice & Grains Product 18,Unilever,Grocery,Rice & Grains,Rice & Grains Type C,SUP291,68688.38,77549.49,False,False,527
+SKU000019,ABC Rice & Grains Product 19,ABC,Grocery,Rice & Grains,Rice & Grains Type D,SUP360,378707.76,439193.97,False,False,591
+SKU000020,Indofood Rice & Grains Product 20,Indofood,Grocery,Rice & Grains,Rice & Grains Type E,SUP342,24262.41,31882.69,False,False,711
+SKU000021,Local Brand Rice & Grains Product 21,Local Brand,Grocery,Rice & Grains,Rice & Grains Type A,SUP263,74191.59,102340.67,False,False,346
+SKU000022,Mayora Rice & Grains Product 22,Mayora,Grocery,Rice & Grains,Rice & Grains Type B,SUP360,298893.7,374273.05,False,False,725
+SKU000023,Mayora Rice & Grains Product 23,Mayora,Grocery,Rice & Grains,Rice & Grains Type C,SUP269,240071.84,265277.24,False,False,292
+SKU000024,Mayora Rice & Grains Product 24,Mayora,Grocery,Rice & Grains,Rice & Grains Type D,SUP452,399393.63,526239.95,False,False,207
+SKU000025,Mayora Rice & Grains Product 25,Mayora,Grocery,Rice & Grains,Rice & Grains Type E,SUP497,483699.99,645677.18,False,False,413
+SKU000026,LG Rice & Grains Product 26,LG,Grocery,Rice & Grains,Rice & Grains Type A,SUP417,89403.47,115214.93,False,False,569
+SKU000027,MegaMart Own Rice & Grains Product 27,MegaMart Own,Grocery,Rice & Grains,Rice & Grains Type B,SUP458,341959.81,379394.55,True,False,292
+SKU000028,LG Rice & Grains Product 28,LG,Grocery,Rice & Grains,Rice & Grains Type C,SUP453,160277.78,183586.88,False,False,388
+SKU000029,LG Rice & Grains Product 29,LG,Grocery,Rice & Grains,Rice & Grains Type D,SUP131,437044.77,577227.4,False,False,321
+SKU000030,Local Brand Rice & Grains Product 30,Local Brand,Grocery,Rice & Grains,Rice & Grains Type E,SUP369,165899.52,215448.4,False,False,565
+SKU000031,Nestle Rice & Grains Product 31,Nestle,Grocery,Rice & Grains,Rice & Grains Type A,SUP379,232533.45,292977.76,False,False,542
+SKU000032,Mayora Rice & Grains Product 32,Mayora,Grocery,Rice & Grains,Rice & Grains Type B,SUP226,306987.91,355393.53,False,False,465
+SKU000033,Wings Rice & Grains Product 33,Wings,Grocery,Rice & Grains,Rice & Grains Type C,SUP494,471035.35,656942.68,False,False,475
+SKU000034,LG Rice & Grains Product 34,LG,Grocery,Rice & Grains,Rice & Grains Type D,SUP469,161935.17,195073.74,False,False,460
+SKU000035,Local Brand Rice & Grains Product 35,Local Brand,Grocery,Rice & Grains,Rice & Grains Type E,SUP276,192948.62,268979.67,False,False,329
+SKU000036,Mayora Rice & Grains Product 36,Mayora,Grocery,Rice & Grains,Rice & Grains Type A,SUP326,477880.29,536998.3,False,False,442
+SKU000037,Wings Rice & Grains Product 37,Wings,Grocery,Rice & Grains,Rice & Grains Type B,SUP387,105023.66,132495.05,False,False,458
+SKU000038,MegaMart Own Rice & Grains Product 38,MegaMart Own,Grocery,Rice & Grains,Rice & Grains Type C,SUP224,309760.13,395269.15,True,False,231
+SKU000039,Local Brand Rice & Grains Product 39,Local Brand,Grocery,Rice & Grains,Rice & Grains Type D,SUP151,116707.46,136530.34,False,False,603
+SKU000040,LG Rice & Grains Product 40,LG,Grocery,Rice & Grains,Rice & Grains Type E,SUP102,54769.73,72911.1,False,False,341
+SKU000041,LG Rice & Grains Product 41,LG,Grocery,Rice & Grains,Rice & Grains Type A,SUP247,241337.02,279911.56,False,False,508
+SKU000042,Indofood Rice & Grains Product 42,Indofood,Grocery,Rice & Grains,Rice & Grains Type B,SUP393,454428.79,512067.73,False,False,417
+SKU000043,Indofood Rice & Grains Product 43,Indofood,Grocery,Rice & Grains,Rice & Grains Type C,SUP190,457048.71,526757.52,False,False,217
+SKU000044,Samsung Rice & Grains Product 44,Samsung,Grocery,Rice & Grains,Rice & Grains Type D,SUP483,395040.51,456624.75,False,False,476
+SKU000045,Indofood Rice & Grains Product 45,Indofood,Grocery,Rice & Grains,Rice & Grains Type E,SUP271,152704.14,195588.79,False,False,471
+SKU000046,Local Brand Rice & Grains Product 46,Local Brand,Grocery,Rice & Grains,Rice & Grains Type A,SUP168,264537.67,361564.26,False,False,696
+SKU000047,Wings Rice & Grains Product 47,Wings,Grocery,Rice & Grains,Rice & Grains Type B,SUP474,405362.87,486113.27,False,False,649
+SKU000048,Nestle Rice & Grains Product 48,Nestle,Grocery,Rice & Grains,Rice & Grains Type C,SUP251,11971.68,14379.59,False,False,377
+SKU000049,Samsung Rice & Grains Product 49,Samsung,Grocery,Rice & Grains,Rice & Grains Type D,SUP144,414359.96,519849.46,False,False,590
+SKU000050,Nestle Rice & Grains Product 50,Nestle,Grocery,Rice & Grains,Rice & Grains Type E,SUP227,490934.17,610347.15,False,False,186
+SKU000051,Wings Cooking Oil Product 1,Wings,Grocery,Cooking Oil,Cooking Oil Type A,SUP268,226134.08,266860.44,False,False,489
+SKU000052,Indofood Cooking Oil Product 2,Indofood,Grocery,Cooking Oil,Cooking Oil Type B,SUP220,134468.81,162420.25,False,False,243
+SKU000053,LG Cooking Oil Product 3,LG,Grocery,Cooking Oil,Cooking Oil Type C,SUP357,156869.14,191635.26,False,False,498
+SKU000054,Mayora Cooking Oil Product 4,Mayora,Grocery,Cooking Oil,Cooking Oil Type D,SUP168,186934.23,218012.94,False,False,669
+SKU000055,ABC Cooking Oil Product 5,ABC,Grocery,Cooking Oil,Cooking Oil Type E,SUP341,210843.58,266668.71,False,False,730
+SKU000056,Wings Cooking Oil Product 6,Wings,Grocery,Cooking Oil,Cooking Oil Type A,SUP405,382120.51,498324.34,False,False,263
+SKU000057,Local Brand Cooking Oil Product 7,Local Brand,Grocery,Cooking Oil,Cooking Oil Type B,SUP388,353364.23,396980.27,False,False,294
+SKU000058,MegaMart Own Cooking Oil Product 8,MegaMart Own,Grocery,Cooking Oil,Cooking Oil Type C,SUP393,276086.38,345562.45,True,False,729
+SKU000059,MegaMart Own Cooking Oil Product 9,MegaMart Own,Grocery,Cooking Oil,Cooking Oil Type D,SUP159,167418.23,210294.45,True,False,390
+SKU000060,LG Cooking Oil Product 10,LG,Grocery,Cooking Oil,Cooking Oil Type E,SUP128,50016.11,62675.82,False,False,644
+SKU000061,MegaMart Own Cooking Oil Product 11,MegaMart Own,Grocery,Cooking Oil,Cooking Oil Type A,SUP386,210635.16,267332.53,True,False,653
+SKU000062,Mayora Cooking Oil Product 12,Mayora,Grocery,Cooking Oil,Cooking Oil Type B,SUP101,363023.64,442447.63,False,False,403
+SKU000063,Indofood Cooking Oil Product 13,Indofood,Grocery,Cooking Oil,Cooking Oil Type C,SUP377,214730.21,281321.37,False,False,241
+SKU000064,Unilever Cooking Oil Product 14,Unilever,Grocery,Cooking Oil,Cooking Oil Type D,SUP246,493137.94,612290.6,False,False,598
+SKU000065,Nestle Cooking Oil Product 15,Nestle,Grocery,Cooking Oil,Cooking Oil Type E,SUP430,384084.7,535222.02,False,False,610
+SKU000066,Samsung Cooking Oil Product 16,Samsung,Grocery,Cooking Oil,Cooking Oil Type A,SUP293,227025.88,312191.13,False,False,564
+SKU000067,MegaMart Own Cooking Oil Product 17,MegaMart Own,Grocery,Cooking Oil,Cooking Oil Type B,SUP168,482251.47,657003.06,True,False,536
+SKU000068,MegaMart Own Cooking Oil Product 18,MegaMart Own,Grocery,Cooking Oil,Cooking Oil Type C,SUP165,496459.15,604646.33,True,False,408
+SKU000069,Indofood Cooking Oil Product 19,Indofood,Grocery,Cooking Oil,Cooking Oil Type D,SUP468,489352.89,606259.87,False,False,614
+SKU000070,Wings Cooking Oil Product 20,Wings,Grocery,Cooking Oil,Cooking Oil Type E,SUP241,127518.46,153512.83,False,False,373
+SKU000071,Unilever Cooking Oil Product 21,Unilever,Grocery,Cooking Oil,Cooking Oil Type A,SUP414,20947.57,27191.19,False,False,196
+SKU000072,Unilever Cooking Oil Product 22,Unilever,Grocery,Cooking Oil,Cooking Oil Type B,SUP406,54943.87,60991.7,False,False,229
+SKU000073,Indofood Cooking Oil Product 23,Indofood,Grocery,Cooking Oil,Cooking Oil Type C,SUP211,204121.35,238883.58,False,False,237
+SKU000074,MegaMart Own Cooking Oil Product 24,MegaMart Own,Grocery,Cooking Oil,Cooking Oil Type D,SUP474,496774.3,581349.36,True,False,506
+SKU000075,ABC Cooking Oil Product 25,ABC,Grocery,Cooking Oil,Cooking Oil Type E,SUP438,122267.5,166635.62,False,False,713
+SKU000076,Mayora Cooking Oil Product 26,Mayora,Grocery,Cooking Oil,Cooking Oil Type A,SUP402,141201.19,178904.09,False,False,359
+SKU000077,Samsung Cooking Oil Product 27,Samsung,Grocery,Cooking Oil,Cooking Oil Type B,SUP276,280146.08,312101.01,False,False,570
+SKU000078,ABC Cooking Oil Product 28,ABC,Grocery,Cooking Oil,Cooking Oil Type C,SUP253,349672.66,427467.05,False,False,565
+SKU000079,Local Brand Cooking Oil Product 29,Local Brand,Grocery,Cooking Oil,Cooking Oil Type D,SUP253,239391.82,324328.58,False,False,327
+SKU000080,Indofood Cooking Oil Product 30,Indofood,Grocery,Cooking Oil,Cooking Oil Type E,SUP385,283381.05,393994.83,False,False,722
+SKU000081,MegaMart Own Cooking Oil Product 31,MegaMart Own,Grocery,Cooking Oil,Cooking Oil Type A,SUP431,125214.97,145374.71,True,False,260
+SKU000082,ABC Cooking Oil Product 32,ABC,Grocery,Cooking Oil,Cooking Oil Type B,SUP197,50769.68,66882.73,False,False,232
+SKU000083,Indofood Cooking Oil Product 33,Indofood,Grocery,Cooking Oil,Cooking Oil Type C,SUP489,437442.13,505879.51,False,False,402
+SKU000084,ABC Cooking Oil Product 34,ABC,Grocery,Cooking Oil,Cooking Oil Type D,SUP208,155078.07,212875.4,False,False,374
+SKU000085,Unilever Cooking Oil Product 35,Unilever,Grocery,Cooking Oil,Cooking Oil Type E,SUP224,374705.22,496971.24,False,False,389
+SKU000086,Wings Cooking Oil Product 36,Wings,Grocery,Cooking Oil,Cooking Oil Type A,SUP294,278279.25,370850.0,False,False,657
+SKU000087,ABC Cooking Oil Product 37,ABC,Grocery,Cooking Oil,Cooking Oil Type B,SUP354,157669.03,190447.38,False,False,657
+SKU000088,MegaMart Own Cooking Oil Product 38,MegaMart Own,Grocery,Cooking Oil,Cooking Oil Type C,SUP263,490752.64,608949.0,True,False,388
+SKU000089,Samsung Cooking Oil Product 39,Samsung,Grocery,Cooking Oil,Cooking Oil Type D,SUP479,27629.15,37554.24,False,False,329
+SKU000090,MegaMart Own Cooking Oil Product 40,MegaMart Own,Grocery,Cooking Oil,Cooking Oil Type E,SUP468,278889.22,355642.2,True,False,607
+SKU000091,Wings Cooking Oil Product 41,Wings,Grocery,Cooking Oil,Cooking Oil Type A,SUP225,168283.32,204287.86,False,False,691
+SKU000092,ABC Cooking Oil Product 42,ABC,Grocery,Cooking Oil,Cooking Oil Type B,SUP470,132376.75,178242.33,False,False,682
+SKU000093,ABC Cooking Oil Product 43,ABC,Grocery,Cooking Oil,Cooking Oil Type C,SUP350,88786.53,116851.42,False,False,368
+SKU000094,Local Brand Cooking Oil Product 44,Local Brand,Grocery,Cooking Oil,Cooking Oil Type D,SUP368,495210.15,686941.19,False,False,214
+SKU000095,Unilever Cooking Oil Product 45,Unilever,Grocery,Cooking Oil,Cooking Oil Type E,SUP491,472868.12,614948.28,False,False,186
+SKU000096,Wings Cooking Oil Product 46,Wings,Grocery,Cooking Oil,Cooking Oil Type A,SUP211,38644.13,44259.47,False,False,697
+SKU000097,Indofood Cooking Oil Product 47,Indofood,Grocery,Cooking Oil,Cooking Oil Type B,SUP415,310828.44,404085.18,False,False,674
+SKU000098,Indofood Cooking Oil Product 48,Indofood,Grocery,Cooking Oil,Cooking Oil Type C,SUP106,8273.12,10469.58,False,False,197
+SKU000099,Mayora Cooking Oil Product 49,Mayora,Grocery,Cooking Oil,Cooking Oil Type D,SUP357,270190.36,320447.54,False,False,620
+SKU000100,Nestle Cooking Oil Product 50,Nestle,Grocery,Cooking Oil,Cooking Oil Type E,SUP176,57973.13,65445.53,False,False,426
+SKU000101,Local Brand Canned Food Product 1,Local Brand,Grocery,Canned Food,Canned Food Type A,SUP303,129947.01,156759.28,False,False,260
+SKU000102,Samsung Canned Food Product 2,Samsung,Grocery,Canned Food,Canned Food Type B,SUP456,232203.88,272366.41,False,False,411
+SKU000103,Unilever Canned Food Product 3,Unilever,Grocery,Canned Food,Canned Food Type C,SUP488,328599.18,446062.13,False,False,212
+SKU000104,MegaMart Own Canned Food Product 4,MegaMart Own,Grocery,Canned Food,Canned Food Type D,SUP128,192735.69,243966.85,True,False,189
+SKU000105,Unilever Canned Food Product 5,Unilever,Grocery,Canned Food,Canned Food Type E,SUP269,252429.9,310532.42,False,False,277
+SKU000106,Indofood Canned Food Product 6,Indofood,Grocery,Canned Food,Canned Food Type A,SUP454,118734.42,162711.5,False,False,666
+SKU000107,Unilever Canned Food Product 7,Unilever,Grocery,Canned Food,Canned Food Type B,SUP378,343792.23,407088.47,False,False,213
+SKU000108,ABC Canned Food Product 8,ABC,Grocery,Canned Food,Canned Food Type C,SUP173,12750.76,14818.26,False,False,587
+SKU000109,Mayora Canned Food Product 9,Mayora,Grocery,Canned Food,Canned Food Type D,SUP299,85412.87,100115.98,False,False,519
+SKU000110,Nestle Canned Food Product 10,Nestle,Grocery,Canned Food,Canned Food Type E,SUP140,396296.55,517877.62,False,False,692
+SKU000111,ABC Canned Food Product 11,ABC,Grocery,Canned Food,Canned Food Type A,SUP138,31579.73,38878.64,False,False,528
+SKU000112,Samsung Canned Food Product 12,Samsung,Grocery,Canned Food,Canned Food Type B,SUP424,484615.66,580527.4,False,False,459
+SKU000113,LG Canned Food Product 13,LG,Grocery,Canned Food,Canned Food Type C,SUP292,247848.71,299089.78,False,False,622
+SKU000114,Samsung Canned Food Product 14,Samsung,Grocery,Canned Food,Canned Food Type D,SUP226,47418.59,60960.62,False,False,255
+SKU000115,MegaMart Own Canned Food Product 15,MegaMart Own,Grocery,Canned Food,Canned Food Type E,SUP424,81339.38,106839.53,True,False,337
+SKU000116,ABC Canned Food Product 16,ABC,Grocery,Canned Food,Canned Food Type A,SUP257,183546.61,206940.75,False,False,635
+SKU000117,Mayora Canned Food Product 17,Mayora,Grocery,Canned Food,Canned Food Type B,SUP320,55604.55,62621.24,False,False,639
+SKU000118,Local Brand Canned Food Product 18,Local Brand,Grocery,Canned Food,Canned Food Type C,SUP281,206981.87,229310.78,False,False,275
+SKU000119,ABC Canned Food Product 19,ABC,Grocery,Canned Food,Canned Food Type D,SUP311,432540.5,477395.89,False,False,577
+SKU000120,Local Brand Canned Food Product 20,Local Brand,Grocery,Canned Food,Canned Food Type E,SUP392,453077.75,631342.06,False,False,713
+SKU000121,Samsung Canned Food Product 21,Samsung,Grocery,Canned Food,Canned Food Type A,SUP237,88903.36,104966.04,False,False,684
+SKU000122,MegaMart Own Canned Food Product 22,MegaMart Own,Grocery,Canned Food,Canned Food Type B,SUP253,87767.66,103810.58,True,False,675
+SKU000123,ABC Canned Food Product 23,ABC,Grocery,Canned Food,Canned Food Type C,SUP420,129591.37,152137.29,False,False,687
+SKU000124,Wings Canned Food Product 24,Wings,Grocery,Canned Food,Canned Food Type D,SUP103,231641.51,264221.16,False,False,585
+SKU000125,Samsung Canned Food Product 25,Samsung,Grocery,Canned Food,Canned Food Type E,SUP271,403017.85,483162.99,False,False,620
+SKU000126,Nestle Canned Food Product 26,Nestle,Grocery,Canned Food,Canned Food Type A,SUP455,153715.47,196903.89,False,False,385
+SKU000127,Nestle Canned Food Product 27,Nestle,Grocery,Canned Food,Canned Food Type B,SUP249,482464.44,670923.53,False,False,682
+SKU000128,Wings Canned Food Product 28,Wings,Grocery,Canned Food,Canned Food Type C,SUP301,166313.69,196930.38,False,False,553
+SKU000129,MegaMart Own Canned Food Product 29,MegaMart Own,Grocery,Canned Food,Canned Food Type D,SUP379,284106.0,362993.18,True,False,364
+SKU000130,Local Brand Canned Food Product 30,Local Brand,Grocery,Canned Food,Canned Food Type E,SUP462,18323.47,24153.34,False,False,394
+SKU000131,Mayora Canned Food Product 31,Mayora,Grocery,Canned Food,Canned Food Type A,SUP309,416484.5,466774.0,False,False,691
+SKU000132,MegaMart Own Canned Food Product 32,MegaMart Own,Grocery,Canned Food,Canned Food Type B,SUP178,154902.16,182134.66,True,False,613
+SKU000133,Unilever Canned Food Product 33,Unilever,Grocery,Canned Food,Canned Food Type C,SUP398,227288.03,290787.8,False,False,590
+SKU000134,Samsung Canned Food Product 34,Samsung,Grocery,Canned Food,Canned Food Type D,SUP284,274104.38,366536.84,False,False,729
+SKU000135,Unilever Canned Food Product 35,Unilever,Grocery,Canned Food,Canned Food Type E,SUP440,59137.87,69455.61,False,False,543
+SKU000136,Indofood Canned Food Product 36,Indofood,Grocery,Canned Food,Canned Food Type A,SUP431,283794.04,367090.25,False,False,589
+SKU000137,ABC Canned Food Product 37,ABC,Grocery,Canned Food,Canned Food Type B,SUP105,483029.8,593709.64,False,False,280
+SKU000138,Local Brand Canned Food Product 38,Local Brand,Grocery,Canned Food,Canned Food Type C,SUP452,374692.25,474884.22,False,False,406
+SKU000139,Samsung Canned Food Product 39,Samsung,Grocery,Canned Food,Canned Food Type D,SUP453,234216.29,305386.81,False,False,692
+SKU000140,Indofood Canned Food Product 40,Indofood,Grocery,Canned Food,Canned Food Type E,SUP143,243971.69,289991.99,False,False,298
+SKU000141,Nestle Canned Food Product 41,Nestle,Grocery,Canned Food,Canned Food Type A,SUP205,177422.68,213425.29,False,False,713
+SKU000142,LG Canned Food Product 42,LG,Grocery,Canned Food,Canned Food Type B,SUP331,53323.4,70205.49,False,False,506
+SKU000143,MegaMart Own Canned Food Product 43,MegaMart Own,Grocery,Canned Food,Canned Food Type C,SUP111,27118.11,35612.42,True,False,531
+SKU000144,Nestle Canned Food Product 44,Nestle,Grocery,Canned Food,Canned Food Type D,SUP364,465311.61,615210.28,False,False,358
+SKU000145,ABC Canned Food Product 45,ABC,Grocery,Canned Food,Canned Food Type E,SUP218,282125.23,391459.7,False,False,594
+SKU000146,Nestle Canned Food Product 46,Nestle,Grocery,Canned Food,Canned Food Type A,SUP114,322037.04,395989.73,False,False,382
+SKU000147,Samsung Canned Food Product 47,Samsung,Grocery,Canned Food,Canned Food Type B,SUP205,197473.71,258971.11,False,False,465
+SKU000148,Unilever Canned Food Product 48,Unilever,Grocery,Canned Food,Canned Food Type C,SUP374,290787.21,389611.45,False,False,371
+SKU000149,Wings Canned Food Product 49,Wings,Grocery,Canned Food,Canned Food Type D,SUP350,231487.46,272855.66,False,False,720
+SKU000150,ABC Canned Food Product 50,ABC,Grocery,Canned Food,Canned Food Type E,SUP400,300500.56,385660.17,False,False,296
+SKU000151,LG Snacks Product 1,LG,Grocery,Snacks,Snacks Type A,SUP461,310594.53,417476.78,False,False,484
+SKU000152,Unilever Snacks Product 2,Unilever,Grocery,Snacks,Snacks Type B,SUP222,337694.49,403192.27,False,False,492
+SKU000153,MegaMart Own Snacks Product 3,MegaMart Own,Grocery,Snacks,Snacks Type C,SUP298,189786.51,216813.54,True,False,608
+SKU000154,Samsung Snacks Product 4,Samsung,Grocery,Snacks,Snacks Type D,SUP375,214404.2,267147.86,False,False,357
+SKU000155,LG Snacks Product 5,LG,Grocery,Snacks,Snacks Type E,SUP330,147973.21,171076.2,False,False,234
+SKU000156,Indofood Snacks Product 6,Indofood,Grocery,Snacks,Snacks Type A,SUP296,244881.42,283704.56,False,False,697
+SKU000157,Samsung Snacks Product 7,Samsung,Grocery,Snacks,Snacks Type B,SUP327,343924.85,421201.03,False,False,680
+SKU000158,Indofood Snacks Product 8,Indofood,Grocery,Snacks,Snacks Type C,SUP116,398961.04,465251.95,False,False,461
+SKU000159,Mayora Snacks Product 9,Mayora,Grocery,Snacks,Snacks Type D,SUP480,88263.44,109199.21,False,False,687
+SKU000160,Unilever Snacks Product 10,Unilever,Grocery,Snacks,Snacks Type E,SUP378,288493.46,340528.07,False,False,555
+SKU000161,Indofood Snacks Product 11,Indofood,Grocery,Snacks,Snacks Type A,SUP211,381202.04,469797.2,False,False,615
+SKU000162,MegaMart Own Snacks Product 12,MegaMart Own,Grocery,Snacks,Snacks Type B,SUP252,415885.0,551215.5,True,False,213
+SKU000163,ABC Snacks Product 13,ABC,Grocery,Snacks,Snacks Type C,SUP160,431788.81,486235.18,False,False,422
+SKU000164,ABC Snacks Product 14,ABC,Grocery,Snacks,Snacks Type D,SUP319,431219.1,553287.97,False,False,349
+SKU000165,Wings Snacks Product 15,Wings,Grocery,Snacks,Snacks Type E,SUP391,407697.28,546979.78,False,False,539
+SKU000166,Local Brand Snacks Product 16,Local Brand,Grocery,Snacks,Snacks Type A,SUP249,88346.8,123128.94,False,False,476
+SKU000167,Local Brand Snacks Product 17,Local Brand,Grocery,Snacks,Snacks Type B,SUP148,492816.71,642529.4,False,False,318
+SKU000168,Samsung Snacks Product 18,Samsung,Grocery,Snacks,Snacks Type C,SUP435,459790.51,642670.29,False,False,309
+SKU000169,Nestle Snacks Product 19,Nestle,Grocery,Snacks,Snacks Type D,SUP226,128590.23,168892.78,False,False,582
+SKU000170,Mayora Snacks Product 20,Mayora,Grocery,Snacks,Snacks Type E,SUP138,315767.35,382884.24,False,False,275
+SKU000171,Mayora Snacks Product 21,Mayora,Grocery,Snacks,Snacks Type A,SUP332,348878.29,475589.21,False,False,679
+SKU000172,Indofood Snacks Product 22,Indofood,Grocery,Snacks,Snacks Type B,SUP147,435109.34,589203.4,False,False,649
+SKU000173,ABC Snacks Product 23,ABC,Grocery,Snacks,Snacks Type C,SUP303,425802.59,570023.37,False,False,403
+SKU000174,Wings Snacks Product 24,Wings,Grocery,Snacks,Snacks Type D,SUP245,249883.9,299075.93,False,False,525
+SKU000175,Nestle Snacks Product 25,Nestle,Grocery,Snacks,Snacks Type E,SUP275,285240.34,355295.76,False,False,229
+SKU000176,MegaMart Own Snacks Product 26,MegaMart Own,Grocery,Snacks,Snacks Type A,SUP108,314958.86,425512.78,True,False,307
+SKU000177,Nestle Snacks Product 27,Nestle,Grocery,Snacks,Snacks Type B,SUP319,223436.54,245825.5,False,False,387
+SKU000178,Nestle Snacks Product 28,Nestle,Grocery,Snacks,Snacks Type C,SUP240,441663.14,525826.31,False,False,275
+SKU000179,Mayora Snacks Product 29,Mayora,Grocery,Snacks,Snacks Type D,SUP432,45798.16,59507.96,False,False,349
+SKU000180,MegaMart Own Snacks Product 30,MegaMart Own,Grocery,Snacks,Snacks Type E,SUP486,314674.12,414676.46,True,False,419
+SKU000181,Unilever Snacks Product 31,Unilever,Grocery,Snacks,Snacks Type A,SUP344,353330.53,388778.73,False,False,259
+SKU000182,MegaMart Own Snacks Product 32,MegaMart Own,Grocery,Snacks,Snacks Type B,SUP104,116964.48,152521.08,True,False,188
+SKU000183,Unilever Snacks Product 33,Unilever,Grocery,Snacks,Snacks Type C,SUP167,494136.68,606154.59,False,False,669
+SKU000184,MegaMart Own Snacks Product 34,MegaMart Own,Grocery,Snacks,Snacks Type D,SUP152,194619.61,256747.84,True,False,285
+SKU000185,Mayora Snacks Product 35,Mayora,Grocery,Snacks,Snacks Type E,SUP485,72879.0,97077.61,False,False,316
+SKU000186,Nestle Snacks Product 36,Nestle,Grocery,Snacks,Snacks Type A,SUP412,38863.75,49317.61,False,False,348
+SKU000187,Wings Snacks Product 37,Wings,Grocery,Snacks,Snacks Type B,SUP310,315899.62,361835.29,False,False,633
+SKU000188,Unilever Snacks Product 38,Unilever,Grocery,Snacks,Snacks Type C,SUP163,448813.51,512546.8,False,False,573
+SKU000189,Samsung Snacks Product 39,Samsung,Grocery,Snacks,Snacks Type D,SUP241,160679.32,183487.6,False,False,266
+SKU000190,Mayora Snacks Product 40,Mayora,Grocery,Snacks,Snacks Type E,SUP437,390589.98,510556.89,False,False,488
+SKU000191,Local Brand Snacks Product 41,Local Brand,Grocery,Snacks,Snacks Type A,SUP430,98380.03,119780.18,False,False,235
+SKU000192,Wings Snacks Product 42,Wings,Grocery,Snacks,Snacks Type B,SUP355,249969.42,283421.1,False,False,252
+SKU000193,Indofood Snacks Product 43,Indofood,Grocery,Snacks,Snacks Type C,SUP167,493506.85,681126.96,False,False,576
+SKU000194,Samsung Snacks Product 44,Samsung,Grocery,Snacks,Snacks Type D,SUP490,185879.17,242550.5,False,False,662
+SKU000195,Unilever Snacks Product 45,Unilever,Grocery,Snacks,Snacks Type E,SUP234,13261.25,14856.04,False,False,400
+SKU000196,MegaMart Own Snacks Product 46,MegaMart Own,Grocery,Snacks,Snacks Type A,SUP359,34932.09,46696.76,True,False,473
+SKU000197,Local Brand Snacks Product 47,Local Brand,Grocery,Snacks,Snacks Type B,SUP305,384719.45,472078.68,False,False,264
+SKU000198,Local Brand Snacks Product 48,Local Brand,Grocery,Snacks,Snacks Type C,SUP258,309943.29,366737.4,False,False,260
+SKU000199,Wings Snacks Product 49,Wings,Grocery,Snacks,Snacks Type D,SUP267,487285.13,558727.53,False,False,580
+SKU000200,Unilever Snacks Product 50,Unilever,Grocery,Snacks,Snacks Type E,SUP222,158533.9,195194.2,False,False,239
+SKU000201,Samsung Beverages Product 1,Samsung,Grocery,Beverages,Beverages Type A,SUP128,62413.36,80119.35,False,False,496
+SKU000202,Nestle Beverages Product 2,Nestle,Grocery,Beverages,Beverages Type B,SUP459,64124.29,84154.81,False,False,191
+SKU000203,ABC Beverages Product 3,ABC,Grocery,Beverages,Beverages Type C,SUP469,263887.65,352262.6,False,False,445
+SKU000204,Nestle Beverages Product 4,Nestle,Grocery,Beverages,Beverages Type D,SUP475,376139.31,512316.04,False,False,300
+SKU000205,Indofood Beverages Product 5,Indofood,Grocery,Beverages,Beverages Type E,SUP368,170830.46,209916.02,False,False,245
+SKU000206,Unilever Beverages Product 6,Unilever,Grocery,Beverages,Beverages Type A,SUP128,250593.05,314051.87,False,False,691
+SKU000207,Nestle Beverages Product 7,Nestle,Grocery,Beverages,Beverages Type B,SUP152,187005.45,220018.42,False,False,298
+SKU000208,Local Brand Beverages Product 8,Local Brand,Grocery,Beverages,Beverages Type C,SUP106,6271.41,8514.11,False,False,430
+SKU000209,MegaMart Own Beverages Product 9,MegaMart Own,Grocery,Beverages,Beverages Type D,SUP191,185168.37,254804.26,True,False,216
+SKU000210,Samsung Beverages Product 10,Samsung,Grocery,Beverages,Beverages Type E,SUP468,116135.08,136398.21,False,False,507
+SKU000211,Unilever Beverages Product 11,Unilever,Grocery,Beverages,Beverages Type A,SUP444,287910.3,327014.36,False,False,233
+SKU000212,Local Brand Beverages Product 12,Local Brand,Grocery,Beverages,Beverages Type B,SUP135,490799.86,680358.46,False,False,656
+SKU000213,Mayora Beverages Product 13,Mayora,Grocery,Beverages,Beverages Type C,SUP104,167013.96,211427.55,False,False,557
+SKU000214,Mayora Beverages Product 14,Mayora,Grocery,Beverages,Beverages Type D,SUP288,371090.11,435205.28,False,False,685
+SKU000215,Wings Beverages Product 15,Wings,Grocery,Beverages,Beverages Type E,SUP225,367569.35,464595.81,False,False,334
+SKU000216,MegaMart Own Beverages Product 16,MegaMart Own,Grocery,Beverages,Beverages Type A,SUP277,207967.87,243301.47,True,False,189
+SKU000217,Indofood Beverages Product 17,Indofood,Grocery,Beverages,Beverages Type B,SUP477,380669.93,461707.88,False,False,494
+SKU000218,MegaMart Own Beverages Product 18,MegaMart Own,Grocery,Beverages,Beverages Type C,SUP351,267258.17,313079.66,True,False,241
+SKU000219,Nestle Beverages Product 19,Nestle,Grocery,Beverages,Beverages Type D,SUP218,357267.97,402965.4,False,False,712
+SKU000220,ABC Beverages Product 20,ABC,Grocery,Beverages,Beverages Type E,SUP397,231936.72,307169.99,False,False,277
+SKU000221,Samsung Beverages Product 21,Samsung,Grocery,Beverages,Beverages Type A,SUP322,42041.09,53406.74,False,False,313
+SKU000222,Mayora Beverages Product 22,Mayora,Grocery,Beverages,Beverages Type B,SUP301,426202.28,587226.87,False,False,514
+SKU000223,Mayora Beverages Product 23,Mayora,Grocery,Beverages,Beverages Type C,SUP169,120637.56,166849.76,False,False,291
+SKU000224,Nestle Beverages Product 24,Nestle,Grocery,Beverages,Beverages Type D,SUP161,227535.54,271725.21,False,False,728
+SKU000225,Wings Beverages Product 25,Wings,Grocery,Beverages,Beverages Type E,SUP161,228698.95,283358.91,False,False,272
+SKU000226,Mayora Beverages Product 26,Mayora,Grocery,Beverages,Beverages Type A,SUP120,414061.41,542032.64,False,False,400
+SKU000227,ABC Beverages Product 27,ABC,Grocery,Beverages,Beverages Type B,SUP282,78420.28,102993.06,False,False,585
+SKU000228,Mayora Beverages Product 28,Mayora,Grocery,Beverages,Beverages Type C,SUP115,133782.56,186921.39,False,False,594
+SKU000229,Local Brand Beverages Product 29,Local Brand,Grocery,Beverages,Beverages Type D,SUP336,375298.83,440959.53,False,False,284
+SKU000230,Nestle Beverages Product 30,Nestle,Grocery,Beverages,Beverages Type E,SUP499,65119.36,72836.05,False,False,407
+SKU000231,MegaMart Own Beverages Product 31,MegaMart Own,Grocery,Beverages,Beverages Type A,SUP422,412718.34,500079.22,True,False,266
+SKU000232,Mayora Beverages Product 32,Mayora,Grocery,Beverages,Beverages Type B,SUP133,459127.15,515368.46,False,False,382
+SKU000233,LG Beverages Product 33,LG,Grocery,Beverages,Beverages Type C,SUP269,405602.84,457355.16,False,False,305
+SKU000234,MegaMart Own Beverages Product 34,MegaMart Own,Grocery,Beverages,Beverages Type D,SUP393,233192.49,268263.89,True,False,623
+SKU000235,Samsung Beverages Product 35,Samsung,Grocery,Beverages,Beverages Type E,SUP318,250582.56,304412.41,False,False,356
+SKU000236,Nestle Beverages Product 36,Nestle,Grocery,Beverages,Beverages Type A,SUP176,141115.98,174109.38,False,False,215
+SKU000237,Wings Beverages Product 37,Wings,Grocery,Beverages,Beverages Type B,SUP381,325402.81,406645.31,False,False,670
+SKU000238,MegaMart Own Beverages Product 38,MegaMart Own,Grocery,Beverages,Beverages Type C,SUP202,143489.11,163745.58,True,False,718
+SKU000239,Local Brand Beverages Product 39,Local Brand,Grocery,Beverages,Beverages Type D,SUP500,398448.89,556561.81,False,False,547
+SKU000240,LG Beverages Product 40,LG,Grocery,Beverages,Beverages Type E,SUP264,175296.89,222573.64,False,False,577
+SKU000241,Indofood Beverages Product 41,Indofood,Grocery,Beverages,Beverages Type A,SUP498,162844.4,189828.7,False,False,467
+SKU000242,MegaMart Own Beverages Product 42,MegaMart Own,Grocery,Beverages,Beverages Type B,SUP492,495808.01,624137.84,True,False,418
+SKU000243,Unilever Beverages Product 43,Unilever,Grocery,Beverages,Beverages Type C,SUP373,127689.24,149695.95,False,False,237
+SKU000244,Wings Beverages Product 44,Wings,Grocery,Beverages,Beverages Type D,SUP298,289967.59,404446.62,False,False,543
+SKU000245,Nestle Beverages Product 45,Nestle,Grocery,Beverages,Beverages Type E,SUP477,92169.68,117770.35,False,False,547
+SKU000246,Indofood Beverages Product 46,Indofood,Grocery,Beverages,Beverages Type A,SUP390,353209.18,425795.31,False,False,325
+SKU000247,Wings Beverages Product 47,Wings,Grocery,Beverages,Beverages Type B,SUP352,419164.94,562988.96,False,False,496
+SKU000248,Indofood Beverages Product 48,Indofood,Grocery,Beverages,Beverages Type C,SUP212,49677.4,58111.98,False,False,200
+SKU000249,Indofood Beverages Product 49,Indofood,Grocery,Beverages,Beverages Type D,SUP166,169208.33,217304.18,False,False,528
+SKU000250,ABC Beverages Product 50,ABC,Grocery,Beverages,Beverages Type E,SUP460,34480.2,39456.16,False,False,325
+SKU000251,Local Brand Vegetables Product 1,Local Brand,Fresh,Vegetables,Vegetables Type A,SUP291,431031.39,598343.82,False,True,14
+SKU000252,Samsung Vegetables Product 2,Samsung,Fresh,Vegetables,Vegetables Type B,SUP265,295078.25,354379.63,False,True,5
+SKU000253,Samsung Vegetables Product 3,Samsung,Fresh,Vegetables,Vegetables Type C,SUP432,396962.05,551062.17,False,True,8
+SKU000254,Local Brand Vegetables Product 4,Local Brand,Fresh,Vegetables,Vegetables Type D,SUP282,348312.4,480202.13,False,True,6
+SKU000255,Nestle Vegetables Product 5,Nestle,Fresh,Vegetables,Vegetables Type E,SUP250,192300.13,253874.34,False,True,5
+SKU000256,Indofood Vegetables Product 6,Indofood,Fresh,Vegetables,Vegetables Type A,SUP300,474650.11,657205.03,False,True,12
+SKU000257,MegaMart Own Vegetables Product 7,MegaMart Own,Fresh,Vegetables,Vegetables Type B,SUP413,303182.39,417273.4,True,True,6
+SKU000258,Unilever Vegetables Product 8,Unilever,Fresh,Vegetables,Vegetables Type C,SUP481,468660.46,535300.7,False,True,4
+SKU000259,ABC Vegetables Product 9,ABC,Fresh,Vegetables,Vegetables Type D,SUP145,88104.27,120314.85,False,True,14
+SKU000260,ABC Vegetables Product 10,ABC,Fresh,Vegetables,Vegetables Type E,SUP227,226081.82,266677.92,False,True,14
+SKU000261,MegaMart Own Vegetables Product 11,MegaMart Own,Fresh,Vegetables,Vegetables Type A,SUP100,132045.68,149529.9,True,True,3
+SKU000262,Samsung Vegetables Product 12,Samsung,Fresh,Vegetables,Vegetables Type B,SUP352,484705.4,661800.08,False,True,9
+SKU000263,Samsung Vegetables Product 13,Samsung,Fresh,Vegetables,Vegetables Type C,SUP395,55207.14,68669.22,False,True,13
+SKU000264,Wings Vegetables Product 14,Wings,Fresh,Vegetables,Vegetables Type D,SUP117,85514.97,95957.44,False,True,7
+SKU000265,MegaMart Own Vegetables Product 15,MegaMart Own,Fresh,Vegetables,Vegetables Type E,SUP275,134258.22,151902.1,True,True,5
+SKU000266,Nestle Vegetables Product 16,Nestle,Fresh,Vegetables,Vegetables Type A,SUP147,367332.62,464350.26,False,True,8
+SKU000267,LG Vegetables Product 17,LG,Fresh,Vegetables,Vegetables Type B,SUP434,353729.8,434874.36,False,True,5
+SKU000268,Samsung Vegetables Product 18,Samsung,Fresh,Vegetables,Vegetables Type C,SUP205,82766.37,93557.23,False,True,6
+SKU000269,Local Brand Vegetables Product 19,Local Brand,Fresh,Vegetables,Vegetables Type D,SUP235,362408.86,478014.46,False,True,13
+SKU000270,Wings Vegetables Product 20,Wings,Fresh,Vegetables,Vegetables Type E,SUP381,52478.38,63911.88,False,True,10
+SKU000271,ABC Vegetables Product 21,ABC,Fresh,Vegetables,Vegetables Type A,SUP438,6888.71,7758.67,False,True,13
+SKU000272,Wings Vegetables Product 22,Wings,Fresh,Vegetables,Vegetables Type B,SUP426,53008.51,61600.44,False,True,7
+SKU000273,LG Vegetables Product 23,LG,Fresh,Vegetables,Vegetables Type C,SUP303,422665.69,504031.38,False,True,10
+SKU000274,Mayora Vegetables Product 24,Mayora,Fresh,Vegetables,Vegetables Type D,SUP194,50112.75,63304.32,False,True,8
+SKU000275,ABC Vegetables Product 25,ABC,Fresh,Vegetables,Vegetables Type E,SUP325,97358.56,108397.57,False,True,10
+SKU000276,Mayora Vegetables Product 26,Mayora,Fresh,Vegetables,Vegetables Type A,SUP456,284302.06,325622.29,False,True,13
+SKU000277,MegaMart Own Vegetables Product 27,MegaMart Own,Fresh,Vegetables,Vegetables Type B,SUP311,335729.88,450701.94,True,True,12
+SKU000278,Indofood Vegetables Product 28,Indofood,Fresh,Vegetables,Vegetables Type C,SUP314,421194.6,566726.42,False,True,11
+SKU000279,LG Vegetables Product 29,LG,Fresh,Vegetables,Vegetables Type D,SUP253,288493.57,337737.29,False,True,4
+SKU000280,Indofood Vegetables Product 30,Indofood,Fresh,Vegetables,Vegetables Type E,SUP392,253540.23,347384.73,False,True,13
+SKU000281,Nestle Vegetables Product 31,Nestle,Fresh,Vegetables,Vegetables Type A,SUP188,64539.53,85654.06,False,True,5
+SKU000282,Wings Vegetables Product 32,Wings,Fresh,Vegetables,Vegetables Type B,SUP449,67462.07,82776.8,False,True,9
+SKU000283,Nestle Vegetables Product 33,Nestle,Fresh,Vegetables,Vegetables Type C,SUP472,417883.52,492001.81,False,True,4
+SKU000284,MegaMart Own Vegetables Product 34,MegaMart Own,Fresh,Vegetables,Vegetables Type D,SUP241,280400.28,354879.15,True,True,11
+SKU000285,Indofood Vegetables Product 35,Indofood,Fresh,Vegetables,Vegetables Type E,SUP367,394342.57,507486.31,False,True,9
+SKU000286,MegaMart Own Vegetables Product 36,MegaMart Own,Fresh,Vegetables,Vegetables Type A,SUP398,79072.95,100420.92,True,True,4
+SKU000287,Unilever Vegetables Product 37,Unilever,Fresh,Vegetables,Vegetables Type B,SUP276,393944.09,535859.53,False,True,9
+SKU000288,LG Vegetables Product 38,LG,Fresh,Vegetables,Vegetables Type C,SUP188,288151.5,357859.38,False,True,7
+SKU000289,Samsung Vegetables Product 39,Samsung,Fresh,Vegetables,Vegetables Type D,SUP269,24197.35,33074.69,False,True,14
+SKU000290,LG Vegetables Product 40,LG,Fresh,Vegetables,Vegetables Type E,SUP110,460813.32,630903.85,False,True,8
+SKU000291,Mayora Vegetables Product 41,Mayora,Fresh,Vegetables,Vegetables Type A,SUP456,158919.9,214995.42,False,True,13
+SKU000292,MegaMart Own Vegetables Product 42,MegaMart Own,Fresh,Vegetables,Vegetables Type B,SUP480,435105.51,496157.63,True,True,10
+SKU000293,ABC Vegetables Product 43,ABC,Fresh,Vegetables,Vegetables Type C,SUP430,138362.89,169498.94,False,True,4
+SKU000294,Wings Vegetables Product 44,Wings,Fresh,Vegetables,Vegetables Type D,SUP348,457149.24,558705.45,False,True,11
+SKU000295,Indofood Vegetables Product 45,Indofood,Fresh,Vegetables,Vegetables Type E,SUP259,260058.5,298466.99,False,True,14
+SKU000296,Nestle Vegetables Product 46,Nestle,Fresh,Vegetables,Vegetables Type A,SUP391,391355.63,492045.9,False,True,3
+SKU000297,Wings Vegetables Product 47,Wings,Fresh,Vegetables,Vegetables Type B,SUP333,419303.46,492617.44,False,True,3
+SKU000298,Wings Vegetables Product 48,Wings,Fresh,Vegetables,Vegetables Type C,SUP358,140618.86,189420.9,False,True,9
+SKU000299,Unilever Vegetables Product 49,Unilever,Fresh,Vegetables,Vegetables Type D,SUP350,342181.31,401235.45,False,True,12
+SKU000300,LG Vegetables Product 50,LG,Fresh,Vegetables,Vegetables Type E,SUP183,295505.72,356063.11,False,True,7
+SKU000301,Unilever Fruits Product 1,Unilever,Fresh,Fruits,Fruits Type A,SUP183,146109.34,177664.53,False,True,12
+SKU000302,Wings Fruits Product 2,Wings,Fresh,Fruits,Fruits Type B,SUP446,429270.04,555567.28,False,True,6
+SKU000303,Samsung Fruits Product 3,Samsung,Fresh,Fruits,Fruits Type C,SUP492,259074.21,352182.63,False,True,13
+SKU000304,MegaMart Own Fruits Product 4,MegaMart Own,Fresh,Fruits,Fruits Type D,SUP407,456200.14,590419.45,True,True,3
+SKU000305,Mayora Fruits Product 5,Mayora,Fresh,Fruits,Fruits Type E,SUP240,357806.54,469732.17,False,True,9
+SKU000306,ABC Fruits Product 6,ABC,Fresh,Fruits,Fruits Type A,SUP254,232204.02,270625.13,False,True,13
+SKU000307,Samsung Fruits Product 7,Samsung,Fresh,Fruits,Fruits Type B,SUP439,294321.14,324402.02,False,True,8
+SKU000308,Mayora Fruits Product 8,Mayora,Fresh,Fruits,Fruits Type C,SUP132,152745.58,172973.88,False,True,8
+SKU000309,ABC Fruits Product 9,ABC,Fresh,Fruits,Fruits Type D,SUP464,431438.34,508382.81,False,True,13
+SKU000310,Nestle Fruits Product 10,Nestle,Fresh,Fruits,Fruits Type E,SUP129,261060.32,305986.35,False,True,12
+SKU000311,ABC Fruits Product 11,ABC,Fresh,Fruits,Fruits Type A,SUP435,341974.1,450169.56,False,True,10
+SKU000312,Mayora Fruits Product 12,Mayora,Fresh,Fruits,Fruits Type B,SUP477,453921.22,554410.15,False,True,3
+SKU000313,Wings Fruits Product 13,Wings,Fresh,Fruits,Fruits Type C,SUP451,174867.69,229778.03,False,True,11
+SKU000314,LG Fruits Product 14,LG,Fresh,Fruits,Fruits Type D,SUP359,453730.62,590557.87,False,True,7
+SKU000315,Local Brand Fruits Product 15,Local Brand,Fresh,Fruits,Fruits Type E,SUP165,94662.25,106900.27,False,True,14
+SKU000316,Local Brand Fruits Product 16,Local Brand,Fresh,Fruits,Fruits Type A,SUP448,382644.52,441924.0,False,True,8
+SKU000317,Wings Fruits Product 17,Wings,Fresh,Fruits,Fruits Type B,SUP257,180865.28,239332.33,False,True,9
+SKU000318,ABC Fruits Product 18,ABC,Fresh,Fruits,Fruits Type C,SUP337,188982.8,241079.92,False,True,4
+SKU000319,Unilever Fruits Product 19,Unilever,Fresh,Fruits,Fruits Type D,SUP161,238748.74,276557.74,False,True,13
+SKU000320,Mayora Fruits Product 20,Mayora,Fresh,Fruits,Fruits Type E,SUP177,209488.09,285166.66,False,True,5
+SKU000321,ABC Fruits Product 21,ABC,Fresh,Fruits,Fruits Type A,SUP334,207549.96,263758.86,False,True,5
+SKU000322,Nestle Fruits Product 22,Nestle,Fresh,Fruits,Fruits Type B,SUP423,390575.88,486764.66,False,True,5
+SKU000323,Indofood Fruits Product 23,Indofood,Fresh,Fruits,Fruits Type C,SUP489,7333.18,8668.25,False,True,5
+SKU000324,Nestle Fruits Product 24,Nestle,Fresh,Fruits,Fruits Type D,SUP145,247340.66,328733.24,False,True,5
+SKU000325,Samsung Fruits Product 25,Samsung,Fresh,Fruits,Fruits Type E,SUP296,204679.77,284422.67,False,True,3
+SKU000326,MegaMart Own Fruits Product 26,MegaMart Own,Fresh,Fruits,Fruits Type A,SUP107,103710.05,125689.36,True,True,8
+SKU000327,Local Brand Fruits Product 27,Local Brand,Fresh,Fruits,Fruits Type B,SUP420,99335.47,129436.55,False,True,14
+SKU000328,ABC Fruits Product 28,ABC,Fresh,Fruits,Fruits Type C,SUP357,159485.67,180348.38,False,True,12
+SKU000329,Unilever Fruits Product 29,Unilever,Fresh,Fruits,Fruits Type D,SUP248,412802.7,491012.58,False,True,10
+SKU000330,Local Brand Fruits Product 30,Local Brand,Fresh,Fruits,Fruits Type E,SUP168,172228.4,235331.54,False,True,8
+SKU000331,LG Fruits Product 31,LG,Fresh,Fruits,Fruits Type A,SUP306,182829.19,211447.04,False,True,3
+SKU000332,Nestle Fruits Product 32,Nestle,Fresh,Fruits,Fruits Type B,SUP358,109539.16,121213.18,False,True,5
+SKU000333,MegaMart Own Fruits Product 33,MegaMart Own,Fresh,Fruits,Fruits Type C,SUP292,356999.49,477536.14,True,True,13
+SKU000334,Local Brand Fruits Product 34,Local Brand,Fresh,Fruits,Fruits Type D,SUP124,313451.71,400646.84,False,True,13
+SKU000335,MegaMart Own Fruits Product 35,MegaMart Own,Fresh,Fruits,Fruits Type E,SUP159,418879.4,466828.74,True,True,9
+SKU000336,Unilever Fruits Product 36,Unilever,Fresh,Fruits,Fruits Type A,SUP178,275904.78,342761.72,False,True,6
+SKU000337,Indofood Fruits Product 37,Indofood,Fresh,Fruits,Fruits Type B,SUP439,154052.65,200037.27,False,True,11
+SKU000338,Nestle Fruits Product 38,Nestle,Fresh,Fruits,Fruits Type C,SUP361,212318.75,290788.91,False,True,14
+SKU000339,Mayora Fruits Product 39,Mayora,Fresh,Fruits,Fruits Type D,SUP201,61436.21,69538.36,False,True,12
+SKU000340,Mayora Fruits Product 40,Mayora,Fresh,Fruits,Fruits Type E,SUP283,416591.92,579869.26,False,True,14
+SKU000341,Nestle Fruits Product 41,Nestle,Fresh,Fruits,Fruits Type A,SUP206,24505.83,30605.49,False,True,14
+SKU000342,ABC Fruits Product 42,ABC,Fresh,Fruits,Fruits Type B,SUP145,121080.11,133651.23,False,True,4
+SKU000343,LG Fruits Product 43,LG,Fresh,Fruits,Fruits Type C,SUP361,78826.52,88839.44,False,True,4
+SKU000344,Unilever Fruits Product 44,Unilever,Fresh,Fruits,Fruits Type D,SUP333,452865.8,585691.81,False,True,7
+SKU000345,Indofood Fruits Product 45,Indofood,Fresh,Fruits,Fruits Type E,SUP120,54405.41,62697.37,False,True,7
+SKU000346,ABC Fruits Product 46,ABC,Fresh,Fruits,Fruits Type A,SUP488,215867.63,244960.18,False,True,3
+SKU000347,MegaMart Own Fruits Product 47,MegaMart Own,Fresh,Fruits,Fruits Type B,SUP268,73505.25,95127.52,True,True,8
+SKU000348,Mayora Fruits Product 48,Mayora,Fresh,Fruits,Fruits Type C,SUP275,439845.39,496095.19,False,True,5
+SKU000349,MegaMart Own Fruits Product 49,MegaMart Own,Fresh,Fruits,Fruits Type D,SUP297,203123.86,251256.42,True,True,14
+SKU000350,Samsung Fruits Product 50,Samsung,Fresh,Fruits,Fruits Type E,SUP157,326179.01,436777.46,False,True,5
+SKU000351,Indofood Meat Product 1,Indofood,Fresh,Meat,Meat Type A,SUP153,490876.74,664305.92,False,True,9
+SKU000352,LG Meat Product 2,LG,Fresh,Meat,Meat Type B,SUP192,402121.07,524172.03,False,True,12
+SKU000353,ABC Meat Product 3,ABC,Fresh,Meat,Meat Type C,SUP472,307622.42,417988.96,False,True,5
+SKU000354,LG Meat Product 4,LG,Fresh,Meat,Meat Type D,SUP123,60904.05,74509.12,False,True,4
+SKU000355,ABC Meat Product 5,ABC,Fresh,Meat,Meat Type E,SUP368,11118.31,15126.46,False,True,14
+SKU000356,Wings Meat Product 6,Wings,Fresh,Meat,Meat Type A,SUP273,489058.3,636242.01,False,True,11
+SKU000357,Unilever Meat Product 7,Unilever,Fresh,Meat,Meat Type B,SUP346,219259.71,288983.33,False,True,8
+SKU000358,Samsung Meat Product 8,Samsung,Fresh,Meat,Meat Type C,SUP413,78583.95,105925.77,False,True,3
+SKU000359,MegaMart Own Meat Product 9,MegaMart Own,Fresh,Meat,Meat Type D,SUP340,467513.85,585173.19,True,True,10
+SKU000360,Unilever Meat Product 10,Unilever,Fresh,Meat,Meat Type E,SUP269,376957.85,450913.27,False,True,7
+SKU000361,MegaMart Own Meat Product 11,MegaMart Own,Fresh,Meat,Meat Type A,SUP306,115239.73,149004.42,True,True,6
+SKU000362,MegaMart Own Meat Product 12,MegaMart Own,Fresh,Meat,Meat Type B,SUP145,224873.49,286018.95,True,True,10
+SKU000363,Unilever Meat Product 13,Unilever,Fresh,Meat,Meat Type C,SUP109,490432.02,649121.94,False,True,4
+SKU000364,Indofood Meat Product 14,Indofood,Fresh,Meat,Meat Type D,SUP146,280779.85,308872.13,False,True,12
+SKU000365,Mayora Meat Product 15,Mayora,Fresh,Meat,Meat Type E,SUP435,445604.89,565338.82,False,True,13
+SKU000366,ABC Meat Product 16,ABC,Fresh,Meat,Meat Type A,SUP214,184854.53,206349.89,False,True,10
+SKU000367,LG Meat Product 17,LG,Fresh,Meat,Meat Type B,SUP331,359745.74,434928.41,False,True,4
+SKU000368,MegaMart Own Meat Product 18,MegaMart Own,Fresh,Meat,Meat Type C,SUP281,331160.58,364494.9,True,True,13
+SKU000369,Mayora Meat Product 19,Mayora,Fresh,Meat,Meat Type D,SUP154,276106.84,334687.63,False,True,3
+SKU000370,LG Meat Product 20,LG,Fresh,Meat,Meat Type E,SUP469,74522.35,98001.13,False,True,9
+SKU000371,MegaMart Own Meat Product 21,MegaMart Own,Fresh,Meat,Meat Type A,SUP301,307371.62,355402.44,True,True,6
+SKU000372,Wings Meat Product 22,Wings,Fresh,Meat,Meat Type B,SUP312,359810.02,407423.58,False,True,3
+SKU000373,Unilever Meat Product 23,Unilever,Fresh,Meat,Meat Type C,SUP437,387211.86,478265.26,False,True,12
+SKU000374,Nestle Meat Product 24,Nestle,Fresh,Meat,Meat Type D,SUP476,482108.1,530946.27,False,True,3
+SKU000375,Samsung Meat Product 25,Samsung,Fresh,Meat,Meat Type E,SUP360,420213.97,523115.79,False,True,5
+SKU000376,Nestle Meat Product 26,Nestle,Fresh,Meat,Meat Type A,SUP298,366594.86,417373.58,False,True,13
+SKU000377,ABC Meat Product 27,ABC,Fresh,Meat,Meat Type B,SUP411,254534.51,309360.94,False,True,14
+SKU000378,Mayora Meat Product 28,Mayora,Fresh,Meat,Meat Type C,SUP250,201945.65,242911.87,False,True,10
+SKU000379,Nestle Meat Product 29,Nestle,Fresh,Meat,Meat Type D,SUP483,209309.01,274195.7,False,True,11
+SKU000380,Local Brand Meat Product 30,Local Brand,Fresh,Meat,Meat Type E,SUP383,431050.24,566211.35,False,True,13
+SKU000381,Wings Meat Product 31,Wings,Fresh,Meat,Meat Type A,SUP276,313962.96,372728.62,False,True,13
+SKU000382,MegaMart Own Meat Product 32,MegaMart Own,Fresh,Meat,Meat Type B,SUP191,356646.24,496649.09,True,True,11
+SKU000383,ABC Meat Product 33,ABC,Fresh,Meat,Meat Type C,SUP387,356624.6,473680.39,False,True,10
+SKU000384,Samsung Meat Product 34,Samsung,Fresh,Meat,Meat Type D,SUP373,338750.53,463464.86,False,True,7
+SKU000385,Samsung Meat Product 35,Samsung,Fresh,Meat,Meat Type E,SUP112,405110.87,509151.04,False,True,9
+SKU000386,MegaMart Own Meat Product 36,MegaMart Own,Fresh,Meat,Meat Type A,SUP484,336775.82,390650.09,True,True,5
+SKU000387,Mayora Meat Product 37,Mayora,Fresh,Meat,Meat Type B,SUP251,77482.05,86672.18,False,True,6
+SKU000388,Indofood Meat Product 38,Indofood,Fresh,Meat,Meat Type C,SUP415,182547.81,225588.63,False,True,13
+SKU000389,Wings Meat Product 39,Wings,Fresh,Meat,Meat Type D,SUP221,372494.3,472464.75,False,True,11
+SKU000390,Mayora Meat Product 40,Mayora,Fresh,Meat,Meat Type E,SUP295,348003.36,387708.44,False,True,9
+SKU000391,ABC Meat Product 41,ABC,Fresh,Meat,Meat Type A,SUP480,483087.44,539193.53,False,True,7
+SKU000392,LG Meat Product 42,LG,Fresh,Meat,Meat Type B,SUP460,415841.82,571136.25,False,True,14
+SKU000393,Local Brand Meat Product 43,Local Brand,Fresh,Meat,Meat Type C,SUP471,370532.77,429425.52,False,True,6
+SKU000394,Nestle Meat Product 44,Nestle,Fresh,Meat,Meat Type D,SUP188,491809.4,551977.71,False,True,14
+SKU000395,Samsung Meat Product 45,Samsung,Fresh,Meat,Meat Type E,SUP235,25113.95,29728.23,False,True,5
+SKU000396,Mayora Meat Product 46,Mayora,Fresh,Meat,Meat Type A,SUP179,7794.34,9664.2,False,True,3
+SKU000397,ABC Meat Product 47,ABC,Fresh,Meat,Meat Type B,SUP420,300455.76,400236.6,False,True,12
+SKU000398,Mayora Meat Product 48,Mayora,Fresh,Meat,Meat Type C,SUP283,247822.72,315181.7,False,True,4
+SKU000399,ABC Meat Product 49,ABC,Fresh,Meat,Meat Type D,SUP366,265070.56,367678.4,False,True,4
+SKU000400,Nestle Meat Product 50,Nestle,Fresh,Meat,Meat Type E,SUP147,210885.97,265950.57,False,True,8
+SKU000401,Wings Seafood Product 1,Wings,Fresh,Seafood,Seafood Type A,SUP250,333350.57,399793.99,False,True,6
+SKU000402,Local Brand Seafood Product 2,Local Brand,Fresh,Seafood,Seafood Type B,SUP485,240054.31,304484.98,False,True,13
+SKU000403,MegaMart Own Seafood Product 3,MegaMart Own,Fresh,Seafood,Seafood Type C,SUP428,336124.54,414676.9,True,True,12
+SKU000404,Wings Seafood Product 4,Wings,Fresh,Seafood,Seafood Type D,SUP264,479653.92,625835.84,False,True,9
+SKU000405,Unilever Seafood Product 5,Unilever,Fresh,Seafood,Seafood Type E,SUP244,196008.59,247376.8,False,True,3
+SKU000406,ABC Seafood Product 6,ABC,Fresh,Seafood,Seafood Type A,SUP349,259582.99,325159.02,False,True,3
+SKU000407,Wings Seafood Product 7,Wings,Fresh,Seafood,Seafood Type B,SUP149,163554.81,183950.69,False,True,5
+SKU000408,Local Brand Seafood Product 8,Local Brand,Fresh,Seafood,Seafood Type C,SUP207,268936.88,346412.2,False,True,13
+SKU000409,Wings Seafood Product 9,Wings,Fresh,Seafood,Seafood Type D,SUP153,433150.67,531589.72,False,True,6
+SKU000410,Samsung Seafood Product 10,Samsung,Fresh,Seafood,Seafood Type E,SUP482,325047.77,449191.75,False,True,13
+SKU000411,LG Seafood Product 11,LG,Fresh,Seafood,Seafood Type A,SUP137,359849.8,399924.79,False,True,3
+SKU000412,Mayora Seafood Product 12,Mayora,Fresh,Seafood,Seafood Type B,SUP216,281251.68,357889.58,False,True,7
+SKU000413,LG Seafood Product 13,LG,Fresh,Seafood,Seafood Type C,SUP108,316957.55,389828.47,False,True,9
+SKU000414,Local Brand Seafood Product 14,Local Brand,Fresh,Seafood,Seafood Type D,SUP132,7919.97,10423.36,False,True,14
+SKU000415,Unilever Seafood Product 15,Unilever,Fresh,Seafood,Seafood Type E,SUP248,182061.57,227731.91,False,True,13
+SKU000416,Unilever Seafood Product 16,Unilever,Fresh,Seafood,Seafood Type A,SUP295,144351.13,198916.91,False,True,9
+SKU000417,Indofood Seafood Product 17,Indofood,Fresh,Seafood,Seafood Type B,SUP169,239623.9,301935.78,False,True,14
+SKU000418,Local Brand Seafood Product 18,Local Brand,Fresh,Seafood,Seafood Type C,SUP252,151014.34,194840.77,False,True,13
+SKU000419,ABC Seafood Product 19,ABC,Fresh,Seafood,Seafood Type D,SUP384,478908.87,528401.74,False,True,5
+SKU000420,MegaMart Own Seafood Product 20,MegaMart Own,Fresh,Seafood,Seafood Type E,SUP375,7489.77,9579.39,True,True,11
+SKU000421,Mayora Seafood Product 21,Mayora,Fresh,Seafood,Seafood Type A,SUP471,108976.18,144113.28,False,True,8
+SKU000422,Local Brand Seafood Product 22,Local Brand,Fresh,Seafood,Seafood Type B,SUP415,75515.28,87235.09,False,True,7
+SKU000423,Nestle Seafood Product 23,Nestle,Fresh,Seafood,Seafood Type C,SUP127,337134.07,428223.58,False,True,11
+SKU000424,Local Brand Seafood Product 24,Local Brand,Fresh,Seafood,Seafood Type D,SUP228,41206.56,53630.57,False,True,4
+SKU000425,LG Seafood Product 25,LG,Fresh,Seafood,Seafood Type E,SUP443,476012.25,574614.15,False,True,13
+SKU000426,Mayora Seafood Product 26,Mayora,Fresh,Seafood,Seafood Type A,SUP262,311660.31,426985.71,False,True,10
+SKU000427,Mayora Seafood Product 27,Mayora,Fresh,Seafood,Seafood Type B,SUP390,348261.77,399009.95,False,True,8
+SKU000428,Samsung Seafood Product 28,Samsung,Fresh,Seafood,Seafood Type C,SUP213,88476.56,105637.87,False,True,14
+SKU000429,Samsung Seafood Product 29,Samsung,Fresh,Seafood,Seafood Type D,SUP447,141956.52,171461.59,False,True,14
+SKU000430,LG Seafood Product 30,LG,Fresh,Seafood,Seafood Type E,SUP256,234109.95,282716.44,False,True,10
+SKU000431,Nestle Seafood Product 31,Nestle,Fresh,Seafood,Seafood Type A,SUP243,324548.04,364984.16,False,True,5
+SKU000432,Wings Seafood Product 32,Wings,Fresh,Seafood,Seafood Type B,SUP139,135301.15,184807.94,False,True,14
+SKU000433,MegaMart Own Seafood Product 33,MegaMart Own,Fresh,Seafood,Seafood Type C,SUP115,14222.0,17808.13,True,True,12
+SKU000434,Wings Seafood Product 34,Wings,Fresh,Seafood,Seafood Type D,SUP378,453620.27,574046.56,False,True,11
+SKU000435,Nestle Seafood Product 35,Nestle,Fresh,Seafood,Seafood Type E,SUP495,186080.22,217154.13,False,True,12
+SKU000436,Mayora Seafood Product 36,Mayora,Fresh,Seafood,Seafood Type A,SUP146,71271.22,89113.04,False,True,9
+SKU000437,Indofood Seafood Product 37,Indofood,Fresh,Seafood,Seafood Type B,SUP414,333025.85,451048.4,False,True,13
+SKU000438,Local Brand Seafood Product 38,Local Brand,Fresh,Seafood,Seafood Type C,SUP389,74483.49,85489.67,False,True,12
+SKU000439,Nestle Seafood Product 39,Nestle,Fresh,Seafood,Seafood Type D,SUP283,369280.31,459772.83,False,True,3
+SKU000440,LG Seafood Product 40,LG,Fresh,Seafood,Seafood Type E,SUP219,119716.2,141182.17,False,True,3
+SKU000441,Local Brand Seafood Product 41,Local Brand,Fresh,Seafood,Seafood Type A,SUP340,454324.42,548994.46,False,True,10
+SKU000442,Indofood Seafood Product 42,Indofood,Fresh,Seafood,Seafood Type B,SUP460,490391.94,587107.69,False,True,11
+SKU000443,Mayora Seafood Product 43,Mayora,Fresh,Seafood,Seafood Type C,SUP378,418261.77,493128.46,False,True,12
+SKU000444,Samsung Seafood Product 44,Samsung,Fresh,Seafood,Seafood Type D,SUP139,185821.91,240825.37,False,True,11
+SKU000445,Wings Seafood Product 45,Wings,Fresh,Seafood,Seafood Type E,SUP276,260604.03,314254.43,False,True,10
+SKU000446,Indofood Seafood Product 46,Indofood,Fresh,Seafood,Seafood Type A,SUP184,253409.31,289315.0,False,True,6
+SKU000447,MegaMart Own Seafood Product 47,MegaMart Own,Fresh,Seafood,Seafood Type B,SUP195,323521.12,376402.31,True,True,5
+SKU000448,Unilever Seafood Product 48,Unilever,Fresh,Seafood,Seafood Type C,SUP269,332249.27,406800.73,False,True,14
+SKU000449,MegaMart Own Seafood Product 49,MegaMart Own,Fresh,Seafood,Seafood Type D,SUP402,339238.57,421913.16,True,True,5
+SKU000450,Samsung Seafood Product 50,Samsung,Fresh,Seafood,Seafood Type E,SUP393,16110.79,17930.4,False,True,12
+SKU000451,Local Brand Dairy Product 1,Local Brand,Fresh,Dairy,Dairy Type A,SUP128,24399.48,31028.35,False,True,5
+SKU000452,Nestle Dairy Product 2,Nestle,Fresh,Dairy,Dairy Type B,SUP388,260737.14,318526.11,False,True,13
+SKU000453,MegaMart Own Dairy Product 3,MegaMart Own,Fresh,Dairy,Dairy Type C,SUP245,361175.91,468995.41,True,True,4
+SKU000454,LG Dairy Product 4,LG,Fresh,Dairy,Dairy Type D,SUP310,434314.69,499970.06,False,True,12
+SKU000455,MegaMart Own Dairy Product 5,MegaMart Own,Fresh,Dairy,Dairy Type E,SUP419,293409.84,390307.57,True,True,13
+SKU000456,Nestle Dairy Product 6,Nestle,Fresh,Dairy,Dairy Type A,SUP332,363472.47,437185.19,False,True,12
+SKU000457,Wings Dairy Product 7,Wings,Fresh,Dairy,Dairy Type B,SUP108,192214.62,219060.07,False,True,6
+SKU000458,Local Brand Dairy Product 8,Local Brand,Fresh,Dairy,Dairy Type C,SUP410,343762.08,463375.56,False,True,4
+SKU000459,Indofood Dairy Product 9,Indofood,Fresh,Dairy,Dairy Type D,SUP485,439487.56,553503.37,False,True,4
+SKU000460,MegaMart Own Dairy Product 10,MegaMart Own,Fresh,Dairy,Dairy Type E,SUP376,331399.34,454214.42,True,True,3
+SKU000461,Samsung Dairy Product 11,Samsung,Fresh,Dairy,Dairy Type A,SUP122,263411.89,319021.63,False,True,14
+SKU000462,Wings Dairy Product 12,Wings,Fresh,Dairy,Dairy Type B,SUP493,469518.71,584380.37,False,True,9
+SKU000463,Unilever Dairy Product 13,Unilever,Fresh,Dairy,Dairy Type C,SUP492,215617.25,253642.52,False,True,6
+SKU000464,Unilever Dairy Product 14,Unilever,Fresh,Dairy,Dairy Type D,SUP309,145217.0,197935.11,False,True,7
+SKU000465,Indofood Dairy Product 15,Indofood,Fresh,Dairy,Dairy Type E,SUP103,291103.64,330504.1,False,True,9
+SKU000466,ABC Dairy Product 16,ABC,Fresh,Dairy,Dairy Type A,SUP318,207378.31,234747.06,False,True,13
+SKU000467,Mayora Dairy Product 17,Mayora,Fresh,Dairy,Dairy Type B,SUP287,428213.58,525447.38,False,True,12
+SKU000468,Samsung Dairy Product 18,Samsung,Fresh,Dairy,Dairy Type C,SUP385,378711.09,463530.42,False,True,10
+SKU000469,Local Brand Dairy Product 19,Local Brand,Fresh,Dairy,Dairy Type D,SUP257,279681.12,328942.28,False,True,12
+SKU000470,Samsung Dairy Product 20,Samsung,Fresh,Dairy,Dairy Type E,SUP437,369212.3,500836.37,False,True,4
+SKU000471,LG Dairy Product 21,LG,Fresh,Dairy,Dairy Type A,SUP151,392639.08,543716.21,False,True,6
+SKU000472,ABC Dairy Product 22,ABC,Fresh,Dairy,Dairy Type B,SUP450,401422.6,515509.96,False,True,14
+SKU000473,MegaMart Own Dairy Product 23,MegaMart Own,Fresh,Dairy,Dairy Type C,SUP146,197606.32,255062.92,True,True,5
+SKU000474,Samsung Dairy Product 24,Samsung,Fresh,Dairy,Dairy Type D,SUP289,48629.64,57330.82,False,True,4
+SKU000475,Samsung Dairy Product 25,Samsung,Fresh,Dairy,Dairy Type E,SUP435,465689.07,568230.76,False,True,11
+SKU000476,Indofood Dairy Product 26,Indofood,Fresh,Dairy,Dairy Type A,SUP427,473129.35,636864.57,False,True,10
+SKU000477,Wings Dairy Product 27,Wings,Fresh,Dairy,Dairy Type B,SUP365,426030.98,587593.66,False,True,7
+SKU000478,Local Brand Dairy Product 28,Local Brand,Fresh,Dairy,Dairy Type C,SUP186,260327.75,304453.64,False,True,13
+SKU000479,MegaMart Own Dairy Product 29,MegaMart Own,Fresh,Dairy,Dairy Type D,SUP180,123432.03,135785.87,True,True,4
+SKU000480,Samsung Dairy Product 30,Samsung,Fresh,Dairy,Dairy Type E,SUP400,179798.19,219091.81,False,True,6
+SKU000481,Unilever Dairy Product 31,Unilever,Fresh,Dairy,Dairy Type A,SUP471,459992.82,581834.7,False,True,11
+SKU000482,ABC Dairy Product 32,ABC,Fresh,Dairy,Dairy Type B,SUP215,177000.17,238004.07,False,True,12
+SKU000483,LG Dairy Product 33,LG,Fresh,Dairy,Dairy Type C,SUP233,465208.35,591964.61,False,True,5
+SKU000484,Unilever Dairy Product 34,Unilever,Fresh,Dairy,Dairy Type D,SUP274,281522.2,352170.41,False,True,4
+SKU000485,Mayora Dairy Product 35,Mayora,Fresh,Dairy,Dairy Type E,SUP394,438675.96,589556.01,False,True,7
+SKU000486,Samsung Dairy Product 36,Samsung,Fresh,Dairy,Dairy Type A,SUP487,283768.46,377693.03,False,True,8
+SKU000487,LG Dairy Product 37,LG,Fresh,Dairy,Dairy Type B,SUP114,342389.36,468716.36,False,True,10
+SKU000488,MegaMart Own Dairy Product 38,MegaMart Own,Fresh,Dairy,Dairy Type C,SUP212,38439.36,49590.56,True,True,13
+SKU000489,ABC Dairy Product 39,ABC,Fresh,Dairy,Dairy Type D,SUP374,209150.86,252221.06,False,True,3
+SKU000490,Mayora Dairy Product 40,Mayora,Fresh,Dairy,Dairy Type E,SUP444,127887.52,144244.7,False,True,14
+SKU000491,Unilever Dairy Product 41,Unilever,Fresh,Dairy,Dairy Type A,SUP260,279502.99,322419.48,False,True,8
+SKU000492,Mayora Dairy Product 42,Mayora,Fresh,Dairy,Dairy Type B,SUP197,95478.3,126398.65,False,True,10
+SKU000493,Wings Dairy Product 43,Wings,Fresh,Dairy,Dairy Type C,SUP205,369037.39,502563.51,False,True,6
+SKU000494,Wings Dairy Product 44,Wings,Fresh,Dairy,Dairy Type D,SUP498,418985.68,505635.36,False,True,4
+SKU000495,MegaMart Own Dairy Product 45,MegaMart Own,Fresh,Dairy,Dairy Type E,SUP352,43851.35,60810.15,True,True,12
+SKU000496,MegaMart Own Dairy Product 46,MegaMart Own,Fresh,Dairy,Dairy Type A,SUP346,429259.22,595553.35,True,True,8
+SKU000497,LG Dairy Product 47,LG,Fresh,Dairy,Dairy Type B,SUP394,449569.99,613346.62,False,True,7
+SKU000498,Local Brand Dairy Product 48,Local Brand,Fresh,Dairy,Dairy Type C,SUP395,143731.98,167681.73,False,True,5
+SKU000499,MegaMart Own Dairy Product 49,MegaMart Own,Fresh,Dairy,Dairy Type D,SUP376,400638.61,498192.52,True,True,3
+SKU000500,Samsung Dairy Product 50,Samsung,Fresh,Dairy,Dairy Type E,SUP334,430898.06,574288.52,False,True,4
+SKU000501,LG Cleaning Product 1,LG,Household,Cleaning,Cleaning Type A,SUP445,161247.38,177779.36,False,False,395
+SKU000502,Unilever Cleaning Product 2,Unilever,Household,Cleaning,Cleaning Type B,SUP232,166090.92,213233.08,False,False,371
+SKU000503,Wings Cleaning Product 3,Wings,Household,Cleaning,Cleaning Type C,SUP275,138357.07,191978.47,False,False,554
+SKU000504,Samsung Cleaning Product 4,Samsung,Household,Cleaning,Cleaning Type D,SUP290,109213.58,143093.14,False,False,553
+SKU000505,Mayora Cleaning Product 5,Mayora,Household,Cleaning,Cleaning Type E,SUP394,228110.85,290025.36,False,False,414
+SKU000506,Mayora Cleaning Product 6,Mayora,Household,Cleaning,Cleaning Type A,SUP295,403023.35,510470.19,False,False,380
+SKU000507,MegaMart Own Cleaning Product 7,MegaMart Own,Household,Cleaning,Cleaning Type B,SUP104,479778.22,549281.01,True,False,360
+SKU000508,Nestle Cleaning Product 8,Nestle,Household,Cleaning,Cleaning Type C,SUP364,497803.08,674432.06,False,False,726
+SKU000509,LG Cleaning Product 9,LG,Household,Cleaning,Cleaning Type D,SUP390,153516.92,194757.94,False,False,228
+SKU000510,Nestle Cleaning Product 10,Nestle,Household,Cleaning,Cleaning Type E,SUP343,34718.01,46666.05,False,False,278
+SKU000511,ABC Cleaning Product 11,ABC,Household,Cleaning,Cleaning Type A,SUP385,133585.72,161383.84,False,False,443
+SKU000512,Samsung Cleaning Product 12,Samsung,Household,Cleaning,Cleaning Type B,SUP410,65012.56,88430.77,False,False,383
+SKU000513,Local Brand Cleaning Product 13,Local Brand,Household,Cleaning,Cleaning Type C,SUP281,91396.72,121931.7,False,False,512
+SKU000514,LG Cleaning Product 14,LG,Household,Cleaning,Cleaning Type D,SUP140,388498.46,479437.8,False,False,570
+SKU000515,LG Cleaning Product 15,LG,Household,Cleaning,Cleaning Type E,SUP185,317697.53,363272.67,False,False,525
+SKU000516,Samsung Cleaning Product 16,Samsung,Household,Cleaning,Cleaning Type A,SUP182,425205.88,476827.24,False,False,531
+SKU000517,ABC Cleaning Product 17,ABC,Household,Cleaning,Cleaning Type B,SUP409,328241.48,431023.75,False,False,584
+SKU000518,LG Cleaning Product 18,LG,Household,Cleaning,Cleaning Type C,SUP482,391582.15,541022.02,False,False,713
+SKU000519,Samsung Cleaning Product 19,Samsung,Household,Cleaning,Cleaning Type D,SUP164,87822.46,119110.4,False,False,420
+SKU000520,Unilever Cleaning Product 20,Unilever,Household,Cleaning,Cleaning Type E,SUP148,109232.89,133167.31,False,False,245
+SKU000521,LG Cleaning Product 21,LG,Household,Cleaning,Cleaning Type A,SUP303,276474.7,306308.94,False,False,716
+SKU000522,Unilever Cleaning Product 22,Unilever,Household,Cleaning,Cleaning Type B,SUP143,56444.56,72555.57,False,False,579
+SKU000523,Wings Cleaning Product 23,Wings,Household,Cleaning,Cleaning Type C,SUP164,370108.65,456324.77,False,False,314
+SKU000524,Nestle Cleaning Product 24,Nestle,Household,Cleaning,Cleaning Type D,SUP266,19142.79,24867.72,False,False,667
+SKU000525,Local Brand Cleaning Product 25,Local Brand,Household,Cleaning,Cleaning Type E,SUP169,467754.5,591505.31,False,False,361
+SKU000526,LG Cleaning Product 26,LG,Household,Cleaning,Cleaning Type A,SUP388,317368.52,409645.11,False,False,625
+SKU000527,Local Brand Cleaning Product 27,Local Brand,Household,Cleaning,Cleaning Type B,SUP376,158282.36,190595.78,False,False,412
+SKU000528,LG Cleaning Product 28,LG,Household,Cleaning,Cleaning Type C,SUP179,157394.75,192597.84,False,False,490
+SKU000529,MegaMart Own Cleaning Product 29,MegaMart Own,Household,Cleaning,Cleaning Type D,SUP169,264041.54,350511.98,True,False,532
+SKU000530,Local Brand Cleaning Product 30,Local Brand,Household,Cleaning,Cleaning Type E,SUP486,9116.97,12550.66,False,False,668
+SKU000531,Samsung Cleaning Product 31,Samsung,Household,Cleaning,Cleaning Type A,SUP103,399992.56,511630.93,False,False,562
+SKU000532,Local Brand Cleaning Product 32,Local Brand,Household,Cleaning,Cleaning Type B,SUP466,221367.65,260100.09,False,False,579
+SKU000533,Wings Cleaning Product 33,Wings,Household,Cleaning,Cleaning Type C,SUP222,135175.24,165815.66,False,False,709
+SKU000534,Mayora Cleaning Product 34,Mayora,Household,Cleaning,Cleaning Type D,SUP237,145915.04,193027.81,False,False,602
+SKU000535,Unilever Cleaning Product 35,Unilever,Household,Cleaning,Cleaning Type E,SUP426,95291.55,113099.5,False,False,646
+SKU000536,Mayora Cleaning Product 36,Mayora,Household,Cleaning,Cleaning Type A,SUP264,351733.94,438822.84,False,False,199
+SKU000537,Local Brand Cleaning Product 37,Local Brand,Household,Cleaning,Cleaning Type B,SUP244,15954.79,22204.28,False,False,455
+SKU000538,MegaMart Own Cleaning Product 38,MegaMart Own,Household,Cleaning,Cleaning Type C,SUP146,222016.23,244764.29,True,False,334
+SKU000539,MegaMart Own Cleaning Product 39,MegaMart Own,Household,Cleaning,Cleaning Type D,SUP355,112508.1,137943.13,True,False,560
+SKU000540,Indofood Cleaning Product 40,Indofood,Household,Cleaning,Cleaning Type E,SUP174,168473.08,227954.84,False,False,237
+SKU000541,Samsung Cleaning Product 41,Samsung,Household,Cleaning,Cleaning Type A,SUP198,40335.42,50058.03,False,False,436
+SKU000542,Indofood Cleaning Product 42,Indofood,Household,Cleaning,Cleaning Type B,SUP227,65370.97,86972.4,False,False,574
+SKU000543,LG Cleaning Product 43,LG,Household,Cleaning,Cleaning Type C,SUP201,127345.28,178074.63,False,False,651
+SKU000544,Unilever Cleaning Product 44,Unilever,Household,Cleaning,Cleaning Type D,SUP342,262963.86,366738.54,False,False,578
+SKU000545,Mayora Cleaning Product 45,Mayora,Household,Cleaning,Cleaning Type E,SUP472,468426.55,537558.55,False,False,223
+SKU000546,Local Brand Cleaning Product 46,Local Brand,Household,Cleaning,Cleaning Type A,SUP426,262858.5,309119.97,False,False,485
+SKU000547,Indofood Cleaning Product 47,Indofood,Household,Cleaning,Cleaning Type B,SUP157,432510.54,504020.31,False,False,421
+SKU000548,ABC Cleaning Product 48,ABC,Household,Cleaning,Cleaning Type C,SUP399,12458.51,16673.44,False,False,302
+SKU000549,Wings Cleaning Product 49,Wings,Household,Cleaning,Cleaning Type D,SUP453,9420.28,10480.98,False,False,666
+SKU000550,Nestle Cleaning Product 50,Nestle,Household,Cleaning,Cleaning Type E,SUP180,188842.34,212795.85,False,False,691
+SKU000551,MegaMart Own Personal Care Product 1,MegaMart Own,Household,Personal Care,Personal Care Type A,SUP488,311229.2,429264.32,True,False,241
+SKU000552,MegaMart Own Personal Care Product 2,MegaMart Own,Household,Personal Care,Personal Care Type B,SUP154,324064.57,424653.71,True,False,308
+SKU000553,ABC Personal Care Product 3,ABC,Household,Personal Care,Personal Care Type C,SUP487,490929.48,656160.9,False,False,535
+SKU000554,LG Personal Care Product 4,LG,Household,Personal Care,Personal Care Type D,SUP293,367928.47,407078.21,False,False,546
+SKU000555,Mayora Personal Care Product 5,Mayora,Household,Personal Care,Personal Care Type E,SUP324,449838.21,560314.26,False,False,481
+SKU000556,LG Personal Care Product 6,LG,Household,Personal Care,Personal Care Type A,SUP278,98939.04,114372.34,False,False,511
+SKU000557,Mayora Personal Care Product 7,Mayora,Household,Personal Care,Personal Care Type B,SUP383,434492.61,555978.47,False,False,344
+SKU000558,MegaMart Own Personal Care Product 8,MegaMart Own,Household,Personal Care,Personal Care Type C,SUP234,81737.61,97161.64,True,False,555
+SKU000559,Local Brand Personal Care Product 9,Local Brand,Household,Personal Care,Personal Care Type D,SUP109,192626.57,222610.88,False,False,552
+SKU000560,Wings Personal Care Product 10,Wings,Household,Personal Care,Personal Care Type E,SUP375,163743.58,183229.48,False,False,576
+SKU000561,LG Personal Care Product 11,LG,Household,Personal Care,Personal Care Type A,SUP244,384038.38,440199.94,False,False,510
+SKU000562,ABC Personal Care Product 12,ABC,Household,Personal Care,Personal Care Type B,SUP134,59679.75,75015.07,False,False,224
+SKU000563,Nestle Personal Care Product 13,Nestle,Household,Personal Care,Personal Care Type C,SUP154,93426.21,103645.37,False,False,677
+SKU000564,Indofood Personal Care Product 14,Indofood,Household,Personal Care,Personal Care Type D,SUP436,287651.03,388584.86,False,False,681
+SKU000565,Mayora Personal Care Product 15,Mayora,Household,Personal Care,Personal Care Type E,SUP467,29297.39,34167.11,False,False,252
+SKU000566,MegaMart Own Personal Care Product 16,MegaMart Own,Household,Personal Care,Personal Care Type A,SUP140,460912.43,597676.58,True,False,659
+SKU000567,Indofood Personal Care Product 17,Indofood,Household,Personal Care,Personal Care Type B,SUP312,183658.4,242988.0,False,False,557
+SKU000568,Indofood Personal Care Product 18,Indofood,Household,Personal Care,Personal Care Type C,SUP120,412703.27,486884.49,False,False,252
+SKU000569,Unilever Personal Care Product 19,Unilever,Household,Personal Care,Personal Care Type D,SUP149,472578.72,656022.45,False,False,283
+SKU000570,Local Brand Personal Care Product 20,Local Brand,Household,Personal Care,Personal Care Type E,SUP436,195738.89,226653.07,False,False,434
+SKU000571,Nestle Personal Care Product 21,Nestle,Household,Personal Care,Personal Care Type A,SUP482,281419.62,356683.18,False,False,288
+SKU000572,ABC Personal Care Product 22,ABC,Household,Personal Care,Personal Care Type B,SUP318,338873.82,444183.98,False,False,286
+SKU000573,Nestle Personal Care Product 23,Nestle,Household,Personal Care,Personal Care Type C,SUP436,277232.91,346931.44,False,False,341
+SKU000574,LG Personal Care Product 24,LG,Household,Personal Care,Personal Care Type D,SUP381,467092.38,640264.77,False,False,512
+SKU000575,Samsung Personal Care Product 25,Samsung,Household,Personal Care,Personal Care Type E,SUP471,383271.26,471108.0,False,False,511
+SKU000576,Local Brand Personal Care Product 26,Local Brand,Household,Personal Care,Personal Care Type A,SUP481,110894.43,147457.71,False,False,440
+SKU000577,LG Personal Care Product 27,LG,Household,Personal Care,Personal Care Type B,SUP471,226512.4,276147.42,False,False,215
+SKU000578,Indofood Personal Care Product 28,Indofood,Household,Personal Care,Personal Care Type C,SUP254,261216.63,365187.01,False,False,186
+SKU000579,Wings Personal Care Product 29,Wings,Household,Personal Care,Personal Care Type D,SUP495,111337.29,132989.21,False,False,462
+SKU000580,Local Brand Personal Care Product 30,Local Brand,Household,Personal Care,Personal Care Type E,SUP179,280379.93,386300.94,False,False,276
+SKU000581,MegaMart Own Personal Care Product 31,MegaMart Own,Household,Personal Care,Personal Care Type A,SUP287,181049.6,206672.18,True,False,435
+SKU000582,Mayora Personal Care Product 32,Mayora,Household,Personal Care,Personal Care Type B,SUP211,50493.04,61598.45,False,False,259
+SKU000583,LG Personal Care Product 33,LG,Household,Personal Care,Personal Care Type C,SUP453,90586.73,122084.78,False,False,277
+SKU000584,Mayora Personal Care Product 34,Mayora,Household,Personal Care,Personal Care Type D,SUP295,23498.94,31547.38,False,False,260
+SKU000585,ABC Personal Care Product 35,ABC,Household,Personal Care,Personal Care Type E,SUP313,177225.45,238393.49,False,False,303
+SKU000586,Wings Personal Care Product 36,Wings,Household,Personal Care,Personal Care Type A,SUP105,375100.94,508203.05,False,False,571
+SKU000587,MegaMart Own Personal Care Product 37,MegaMart Own,Household,Personal Care,Personal Care Type B,SUP389,264569.76,316371.19,True,False,333
+SKU000588,Wings Personal Care Product 38,Wings,Household,Personal Care,Personal Care Type C,SUP301,80832.75,105251.56,False,False,636
+SKU000589,Local Brand Personal Care Product 39,Local Brand,Household,Personal Care,Personal Care Type D,SUP301,49591.06,60976.21,False,False,331
+SKU000590,MegaMart Own Personal Care Product 40,MegaMart Own,Household,Personal Care,Personal Care Type E,SUP125,45859.83,58307.66,True,False,588
+SKU000591,Samsung Personal Care Product 41,Samsung,Household,Personal Care,Personal Care Type A,SUP166,253402.44,337569.44,False,False,318
+SKU000592,Wings Personal Care Product 42,Wings,Household,Personal Care,Personal Care Type B,SUP200,246491.24,319372.42,False,False,716
+SKU000593,Unilever Personal Care Product 43,Unilever,Household,Personal Care,Personal Care Type C,SUP450,136797.26,168126.53,False,False,271
+SKU000594,MegaMart Own Personal Care Product 44,MegaMart Own,Household,Personal Care,Personal Care Type D,SUP197,209723.12,253676.95,True,False,508
+SKU000595,Indofood Personal Care Product 45,Indofood,Household,Personal Care,Personal Care Type E,SUP279,385992.24,444190.83,False,False,632
+SKU000596,LG Personal Care Product 46,LG,Household,Personal Care,Personal Care Type A,SUP202,27214.39,36615.64,False,False,562
+SKU000597,Unilever Personal Care Product 47,Unilever,Household,Personal Care,Personal Care Type B,SUP417,60624.01,67678.3,False,False,331
+SKU000598,Mayora Personal Care Product 48,Mayora,Household,Personal Care,Personal Care Type C,SUP156,11797.98,15433.39,False,False,492
+SKU000599,Indofood Personal Care Product 49,Indofood,Household,Personal Care,Personal Care Type D,SUP208,169278.98,223787.47,False,False,388
+SKU000600,Mayora Personal Care Product 50,Mayora,Household,Personal Care,Personal Care Type E,SUP172,276656.03,356032.13,False,False,198
+SKU000601,Local Brand Baby Care Product 1,Local Brand,Household,Baby Care,Baby Care Type A,SUP245,26523.59,30531.2,False,False,385
+SKU000602,Mayora Baby Care Product 2,Mayora,Household,Baby Care,Baby Care Type B,SUP104,31277.2,40548.62,False,False,248
+SKU000603,Mayora Baby Care Product 3,Mayora,Household,Baby Care,Baby Care Type C,SUP284,333175.91,457737.27,False,False,290
+SKU000604,MegaMart Own Baby Care Product 4,MegaMart Own,Household,Baby Care,Baby Care Type D,SUP218,434368.17,562430.05,True,False,569
+SKU000605,Unilever Baby Care Product 5,Unilever,Household,Baby Care,Baby Care Type E,SUP405,452416.67,563439.11,False,False,724
+SKU000606,MegaMart Own Baby Care Product 6,MegaMart Own,Household,Baby Care,Baby Care Type A,SUP387,103443.22,143789.95,True,False,202
+SKU000607,MegaMart Own Baby Care Product 7,MegaMart Own,Household,Baby Care,Baby Care Type B,SUP350,461523.71,549895.47,True,False,582
+SKU000608,Indofood Baby Care Product 8,Indofood,Household,Baby Care,Baby Care Type C,SUP420,176656.05,212971.93,False,False,489
+SKU000609,Local Brand Baby Care Product 9,Local Brand,Household,Baby Care,Baby Care Type D,SUP231,141559.75,158349.15,False,False,576
+SKU000610,Indofood Baby Care Product 10,Indofood,Household,Baby Care,Baby Care Type E,SUP215,472347.67,654076.32,False,False,335
+SKU000611,Samsung Baby Care Product 11,Samsung,Household,Baby Care,Baby Care Type A,SUP295,330181.22,371895.82,False,False,713
+SKU000612,Wings Baby Care Product 12,Wings,Household,Baby Care,Baby Care Type B,SUP318,211580.0,269102.16,False,False,499
+SKU000613,ABC Baby Care Product 13,ABC,Household,Baby Care,Baby Care Type C,SUP434,227338.75,259059.7,False,False,321
+SKU000614,Wings Baby Care Product 14,Wings,Household,Baby Care,Baby Care Type D,SUP461,431980.89,515223.4,False,False,716
+SKU000615,Samsung Baby Care Product 15,Samsung,Household,Baby Care,Baby Care Type E,SUP174,497864.47,693392.31,False,False,341
+SKU000616,Local Brand Baby Care Product 16,Local Brand,Household,Baby Care,Baby Care Type A,SUP194,268815.97,353716.7,False,False,505
+SKU000617,Nestle Baby Care Product 17,Nestle,Household,Baby Care,Baby Care Type B,SUP311,364904.37,485187.98,False,False,601
+SKU000618,Mayora Baby Care Product 18,Mayora,Household,Baby Care,Baby Care Type C,SUP167,80218.74,92763.35,False,False,369
+SKU000619,MegaMart Own Baby Care Product 19,MegaMart Own,Household,Baby Care,Baby Care Type D,SUP410,493048.02,633608.1,True,False,416
+SKU000620,Wings Baby Care Product 20,Wings,Household,Baby Care,Baby Care Type E,SUP452,345252.05,416987.97,False,False,668
+SKU000621,MegaMart Own Baby Care Product 21,MegaMart Own,Household,Baby Care,Baby Care Type A,SUP432,423838.43,525826.27,True,False,562
+SKU000622,Samsung Baby Care Product 22,Samsung,Household,Baby Care,Baby Care Type B,SUP198,248265.57,283334.03,False,False,411
+SKU000623,MegaMart Own Baby Care Product 23,MegaMart Own,Household,Baby Care,Baby Care Type C,SUP238,383446.73,423518.55,True,False,602
+SKU000624,Wings Baby Care Product 24,Wings,Household,Baby Care,Baby Care Type D,SUP324,380099.41,425650.86,False,False,681
+SKU000625,LG Baby Care Product 25,LG,Household,Baby Care,Baby Care Type E,SUP497,444355.52,545787.09,False,False,222
+SKU000626,Samsung Baby Care Product 26,Samsung,Household,Baby Care,Baby Care Type A,SUP480,361499.45,440394.97,False,False,729
+SKU000627,Indofood Baby Care Product 27,Indofood,Household,Baby Care,Baby Care Type B,SUP121,262721.3,324587.67,False,False,431
+SKU000628,Samsung Baby Care Product 28,Samsung,Household,Baby Care,Baby Care Type C,SUP298,491996.17,546989.28,False,False,708
+SKU000629,Indofood Baby Care Product 29,Indofood,Household,Baby Care,Baby Care Type D,SUP255,98975.92,121925.09,False,False,472
+SKU000630,Samsung Baby Care Product 30,Samsung,Household,Baby Care,Baby Care Type E,SUP453,150737.76,207371.42,False,False,709
+SKU000631,LG Baby Care Product 31,LG,Household,Baby Care,Baby Care Type A,SUP469,415797.28,513721.46,False,False,692
+SKU000632,MegaMart Own Baby Care Product 32,MegaMart Own,Household,Baby Care,Baby Care Type B,SUP456,390471.92,539379.46,True,False,318
+SKU000633,ABC Baby Care Product 33,ABC,Household,Baby Care,Baby Care Type C,SUP402,228188.5,263252.76,False,False,386
+SKU000634,Unilever Baby Care Product 34,Unilever,Household,Baby Care,Baby Care Type D,SUP464,128790.74,168395.85,False,False,347
+SKU000635,Unilever Baby Care Product 35,Unilever,Household,Baby Care,Baby Care Type E,SUP424,50139.66,65776.62,False,False,551
+SKU000636,MegaMart Own Baby Care Product 36,MegaMart Own,Household,Baby Care,Baby Care Type A,SUP361,355103.16,468048.03,True,False,343
+SKU000637,Samsung Baby Care Product 37,Samsung,Household,Baby Care,Baby Care Type B,SUP271,26733.51,30777.37,False,False,333
+SKU000638,Nestle Baby Care Product 38,Nestle,Household,Baby Care,Baby Care Type C,SUP314,93539.05,122874.23,False,False,495
+SKU000639,LG Baby Care Product 39,LG,Household,Baby Care,Baby Care Type D,SUP167,147946.37,170761.0,False,False,387
+SKU000640,MegaMart Own Baby Care Product 40,MegaMart Own,Household,Baby Care,Baby Care Type E,SUP354,383870.92,423663.87,True,False,690
+SKU000641,Indofood Baby Care Product 41,Indofood,Household,Baby Care,Baby Care Type A,SUP211,305952.05,381840.41,False,False,667
+SKU000642,LG Baby Care Product 42,LG,Household,Baby Care,Baby Care Type B,SUP225,44305.43,56712.31,False,False,464
+SKU000643,Local Brand Baby Care Product 43,Local Brand,Household,Baby Care,Baby Care Type C,SUP194,410960.09,477655.33,False,False,331
+SKU000644,MegaMart Own Baby Care Product 44,MegaMart Own,Household,Baby Care,Baby Care Type D,SUP116,177764.82,203294.04,True,False,485
+SKU000645,Unilever Baby Care Product 45,Unilever,Household,Baby Care,Baby Care Type E,SUP191,29270.52,35858.94,False,False,345
+SKU000646,Local Brand Baby Care Product 46,Local Brand,Household,Baby Care,Baby Care Type A,SUP396,92822.54,114784.48,False,False,548
+SKU000647,Unilever Baby Care Product 47,Unilever,Household,Baby Care,Baby Care Type B,SUP294,385413.43,461280.74,False,False,249
+SKU000648,Local Brand Baby Care Product 48,Local Brand,Household,Baby Care,Baby Care Type C,SUP162,37138.3,46097.73,False,False,461
+SKU000649,Samsung Baby Care Product 49,Samsung,Household,Baby Care,Baby Care Type D,SUP413,264699.87,346425.65,False,False,239
+SKU000650,MegaMart Own Baby Care Product 50,MegaMart Own,Household,Baby Care,Baby Care Type E,SUP144,366215.62,471939.72,True,False,675
+SKU000651,Mayora Mobile Product 1,Mayora,Electronics,Mobile,Mobile Type A,SUP232,216391.53,293067.57,False,False,718
+SKU000652,ABC Mobile Product 2,ABC,Electronics,Mobile,Mobile Type B,SUP354,463917.16,595802.77,False,False,712
+SKU000653,LG Mobile Product 3,LG,Electronics,Mobile,Mobile Type C,SUP412,248789.7,287096.39,False,False,418
+SKU000654,Wings Mobile Product 4,Wings,Electronics,Mobile,Mobile Type D,SUP420,5782.55,6402.42,False,False,300
+SKU000655,Wings Mobile Product 5,Wings,Electronics,Mobile,Mobile Type E,SUP311,400784.35,560976.29,False,False,226
+SKU000656,Local Brand Mobile Product 6,Local Brand,Electronics,Mobile,Mobile Type A,SUP427,403991.54,470125.51,False,False,386
+SKU000657,Mayora Mobile Product 7,Mayora,Electronics,Mobile,Mobile Type B,SUP359,396146.77,472338.38,False,False,511
+SKU000658,Unilever Mobile Product 8,Unilever,Electronics,Mobile,Mobile Type C,SUP470,344488.72,414216.16,False,False,209
+SKU000659,Wings Mobile Product 9,Wings,Electronics,Mobile,Mobile Type D,SUP444,168604.84,202558.66,False,False,670
+SKU000660,Indofood Mobile Product 10,Indofood,Electronics,Mobile,Mobile Type E,SUP421,324597.85,403945.36,False,False,651
+SKU000661,Local Brand Mobile Product 11,Local Brand,Electronics,Mobile,Mobile Type A,SUP311,448484.66,555556.35,False,False,237
+SKU000662,Mayora Mobile Product 12,Mayora,Electronics,Mobile,Mobile Type B,SUP384,284646.61,371025.27,False,False,728
+SKU000663,MegaMart Own Mobile Product 13,MegaMart Own,Electronics,Mobile,Mobile Type C,SUP281,290811.83,348833.38,True,False,247
+SKU000664,Mayora Mobile Product 14,Mayora,Electronics,Mobile,Mobile Type D,SUP292,421165.88,506134.3,False,False,727
+SKU000665,Samsung Mobile Product 15,Samsung,Electronics,Mobile,Mobile Type E,SUP500,97752.56,110954.37,False,False,495
+SKU000666,ABC Mobile Product 16,ABC,Electronics,Mobile,Mobile Type A,SUP144,356370.81,421034.02,False,False,688
+SKU000667,ABC Mobile Product 17,ABC,Electronics,Mobile,Mobile Type B,SUP210,228693.63,316790.54,False,False,717
+SKU000668,Unilever Mobile Product 18,Unilever,Electronics,Mobile,Mobile Type C,SUP203,190236.77,211394.62,False,False,274
+SKU000669,Indofood Mobile Product 19,Indofood,Electronics,Mobile,Mobile Type D,SUP178,400517.51,549304.45,False,False,374
+SKU000670,LG Mobile Product 20,LG,Electronics,Mobile,Mobile Type E,SUP497,367558.33,462053.31,False,False,515
+SKU000671,MegaMart Own Mobile Product 21,MegaMart Own,Electronics,Mobile,Mobile Type A,SUP364,436540.5,587863.58,True,False,315
+SKU000672,Indofood Mobile Product 22,Indofood,Electronics,Mobile,Mobile Type B,SUP367,232387.36,305380.98,False,False,298
+SKU000673,MegaMart Own Mobile Product 23,MegaMart Own,Electronics,Mobile,Mobile Type C,SUP404,466506.99,609312.1,True,False,269
+SKU000674,Indofood Mobile Product 24,Indofood,Electronics,Mobile,Mobile Type D,SUP481,56035.9,74519.57,False,False,499
+SKU000675,MegaMart Own Mobile Product 25,MegaMart Own,Electronics,Mobile,Mobile Type E,SUP207,380454.44,491415.98,True,False,508
+SKU000676,Mayora Mobile Product 26,Mayora,Electronics,Mobile,Mobile Type A,SUP325,141941.52,169725.85,False,False,300
+SKU000677,Nestle Mobile Product 27,Nestle,Electronics,Mobile,Mobile Type B,SUP418,140450.26,155138.13,False,False,706
+SKU000678,MegaMart Own Mobile Product 28,MegaMart Own,Electronics,Mobile,Mobile Type C,SUP238,273551.71,345990.86,True,False,324
+SKU000679,Mayora Mobile Product 29,Mayora,Electronics,Mobile,Mobile Type D,SUP259,289171.06,332946.5,False,False,526
+SKU000680,Indofood Mobile Product 30,Indofood,Electronics,Mobile,Mobile Type E,SUP445,69386.63,86124.12,False,False,231
+SKU000681,MegaMart Own Mobile Product 31,MegaMart Own,Electronics,Mobile,Mobile Type A,SUP191,31630.94,38840.89,True,False,636
+SKU000682,Mayora Mobile Product 32,Mayora,Electronics,Mobile,Mobile Type B,SUP488,169504.39,196530.87,False,False,726
+SKU000683,MegaMart Own Mobile Product 33,MegaMart Own,Electronics,Mobile,Mobile Type C,SUP390,461778.08,613854.76,True,False,314
+SKU000684,MegaMart Own Mobile Product 34,MegaMart Own,Electronics,Mobile,Mobile Type D,SUP149,402163.5,526665.21,True,False,646
+SKU000685,LG Mobile Product 35,LG,Electronics,Mobile,Mobile Type E,SUP173,237920.21,329337.36,False,False,444
+SKU000686,Samsung Mobile Product 36,Samsung,Electronics,Mobile,Mobile Type A,SUP269,95759.77,131686.86,False,False,512
+SKU000687,Indofood Mobile Product 37,Indofood,Electronics,Mobile,Mobile Type B,SUP345,37355.77,42356.44,False,False,652
+SKU000688,Mayora Mobile Product 38,Mayora,Electronics,Mobile,Mobile Type C,SUP165,385131.05,493480.77,False,False,700
+SKU000689,MegaMart Own Mobile Product 39,MegaMart Own,Electronics,Mobile,Mobile Type D,SUP266,409688.68,548584.34,True,False,252
+SKU000690,Local Brand Mobile Product 40,Local Brand,Electronics,Mobile,Mobile Type E,SUP222,233182.55,297811.61,False,False,429
+SKU000691,LG Mobile Product 41,LG,Electronics,Mobile,Mobile Type A,SUP455,194989.15,234418.73,False,False,621
+SKU000692,Samsung Mobile Product 42,Samsung,Electronics,Mobile,Mobile Type B,SUP455,285769.54,343683.67,False,False,421
+SKU000693,Unilever Mobile Product 43,Unilever,Electronics,Mobile,Mobile Type C,SUP349,370986.69,487317.97,False,False,297
+SKU000694,LG Mobile Product 44,LG,Electronics,Mobile,Mobile Type D,SUP327,166062.16,187533.36,False,False,360
+SKU000695,Samsung Mobile Product 45,Samsung,Electronics,Mobile,Mobile Type E,SUP405,39455.78,44688.54,False,False,568
+SKU000696,Indofood Mobile Product 46,Indofood,Electronics,Mobile,Mobile Type A,SUP397,49813.84,67005.1,False,False,180
+SKU000697,Nestle Mobile Product 47,Nestle,Electronics,Mobile,Mobile Type B,SUP415,229222.34,272190.29,False,False,637
+SKU000698,ABC Mobile Product 48,ABC,Electronics,Mobile,Mobile Type C,SUP447,153368.99,205254.33,False,False,491
+SKU000699,Samsung Mobile Product 49,Samsung,Electronics,Mobile,Mobile Type D,SUP145,360306.65,495254.24,False,False,188
+SKU000700,Local Brand Mobile Product 50,Local Brand,Electronics,Mobile,Mobile Type E,SUP250,205077.72,233433.14,False,False,243
+SKU000701,Local Brand Appliances Product 1,Local Brand,Electronics,Appliances,Appliances Type A,SUP386,484110.26,532643.76,False,False,547
+SKU000702,MegaMart Own Appliances Product 2,MegaMart Own,Electronics,Appliances,Appliances Type B,SUP321,144693.58,160516.61,True,False,583
+SKU000703,Samsung Appliances Product 3,Samsung,Electronics,Appliances,Appliances Type C,SUP208,205986.16,253477.71,False,False,357
+SKU000704,Wings Appliances Product 4,Wings,Electronics,Appliances,Appliances Type D,SUP284,279933.68,378749.79,False,False,607
+SKU000705,Nestle Appliances Product 5,Nestle,Electronics,Appliances,Appliances Type E,SUP108,71467.34,80152.32,False,False,327
+SKU000706,LG Appliances Product 6,LG,Electronics,Appliances,Appliances Type A,SUP169,330673.71,460460.66,False,False,266
+SKU000707,MegaMart Own Appliances Product 7,MegaMart Own,Electronics,Appliances,Appliances Type B,SUP456,403941.1,548570.53,True,False,615
+SKU000708,LG Appliances Product 8,LG,Electronics,Appliances,Appliances Type C,SUP330,257160.38,325466.04,False,False,573
+SKU000709,Nestle Appliances Product 9,Nestle,Electronics,Appliances,Appliances Type D,SUP355,215262.07,237268.1,False,False,422
+SKU000710,Mayora Appliances Product 10,Mayora,Electronics,Appliances,Appliances Type E,SUP287,208364.72,263341.73,False,False,214
+SKU000711,LG Appliances Product 11,LG,Electronics,Appliances,Appliances Type A,SUP346,353916.86,401323.78,False,False,261
+SKU000712,MegaMart Own Appliances Product 12,MegaMart Own,Electronics,Appliances,Appliances Type B,SUP484,366990.13,511978.29,True,False,466
+SKU000713,Unilever Appliances Product 13,Unilever,Electronics,Appliances,Appliances Type C,SUP225,264061.61,338796.64,False,False,663
+SKU000714,Unilever Appliances Product 14,Unilever,Electronics,Appliances,Appliances Type D,SUP396,343616.64,433561.44,False,False,499
+SKU000715,ABC Appliances Product 15,ABC,Electronics,Appliances,Appliances Type E,SUP332,269841.46,297698.55,False,False,704
+SKU000716,ABC Appliances Product 16,ABC,Electronics,Appliances,Appliances Type A,SUP250,213402.97,296240.54,False,False,476
+SKU000717,Mayora Appliances Product 17,Mayora,Electronics,Appliances,Appliances Type B,SUP131,364851.0,463036.74,False,False,664
+SKU000718,Indofood Appliances Product 18,Indofood,Electronics,Appliances,Appliances Type C,SUP477,329878.34,391739.09,False,False,207
+SKU000719,Unilever Appliances Product 19,Unilever,Electronics,Appliances,Appliances Type D,SUP242,67776.56,76117.05,False,False,438
+SKU000720,MegaMart Own Appliances Product 20,MegaMart Own,Electronics,Appliances,Appliances Type E,SUP107,144081.11,195569.58,True,False,294
+SKU000721,Nestle Appliances Product 21,Nestle,Electronics,Appliances,Appliances Type A,SUP189,331282.04,401159.38,False,False,447
+SKU000722,Wings Appliances Product 22,Wings,Electronics,Appliances,Appliances Type B,SUP116,245034.66,328300.28,False,False,531
+SKU000723,Nestle Appliances Product 23,Nestle,Electronics,Appliances,Appliances Type C,SUP353,299794.33,403678.2,False,False,602
+SKU000724,Wings Appliances Product 24,Wings,Electronics,Appliances,Appliances Type D,SUP185,332030.31,437549.45,False,False,395
+SKU000725,ABC Appliances Product 25,ABC,Electronics,Appliances,Appliances Type E,SUP159,31891.26,37609.96,False,False,233
+SKU000726,Samsung Appliances Product 26,Samsung,Electronics,Appliances,Appliances Type A,SUP485,240734.81,299204.45,False,False,725
+SKU000727,Samsung Appliances Product 27,Samsung,Electronics,Appliances,Appliances Type B,SUP322,239921.84,274361.41,False,False,192
+SKU000728,LG Appliances Product 28,LG,Electronics,Appliances,Appliances Type C,SUP371,194092.03,231883.03,False,False,222
+SKU000729,MegaMart Own Appliances Product 29,MegaMart Own,Electronics,Appliances,Appliances Type D,SUP321,267990.21,323235.97,True,False,459
+SKU000730,Mayora Appliances Product 30,Mayora,Electronics,Appliances,Appliances Type E,SUP399,402146.6,473166.97,False,False,580
+SKU000731,Wings Appliances Product 31,Wings,Electronics,Appliances,Appliances Type A,SUP199,368485.16,470414.53,False,False,712
+SKU000732,Nestle Appliances Product 32,Nestle,Electronics,Appliances,Appliances Type B,SUP104,160068.56,176583.38,False,False,249
+SKU000733,MegaMart Own Appliances Product 33,MegaMart Own,Electronics,Appliances,Appliances Type C,SUP328,53360.89,60360.35,True,False,539
+SKU000734,Mayora Appliances Product 34,Mayora,Electronics,Appliances,Appliances Type D,SUP417,129688.57,143981.88,False,False,274
+SKU000735,MegaMart Own Appliances Product 35,MegaMart Own,Electronics,Appliances,Appliances Type E,SUP211,299098.6,409223.74,True,False,304
+SKU000736,Unilever Appliances Product 36,Unilever,Electronics,Appliances,Appliances Type A,SUP292,47761.26,61201.55,False,False,369
+SKU000737,Nestle Appliances Product 37,Nestle,Electronics,Appliances,Appliances Type B,SUP138,130401.19,161708.78,False,False,644
+SKU000738,Mayora Appliances Product 38,Mayora,Electronics,Appliances,Appliances Type C,SUP441,385832.77,504540.57,False,False,511
+SKU000739,Unilever Appliances Product 39,Unilever,Electronics,Appliances,Appliances Type D,SUP298,142257.3,159145.55,False,False,520
+SKU000740,Mayora Appliances Product 40,Mayora,Electronics,Appliances,Appliances Type E,SUP325,478024.82,563782.21,False,False,251
+SKU000741,Wings Appliances Product 41,Wings,Electronics,Appliances,Appliances Type A,SUP351,307099.43,354249.22,False,False,291
+SKU000742,MegaMart Own Appliances Product 42,MegaMart Own,Electronics,Appliances,Appliances Type B,SUP429,385510.13,449318.21,True,False,288
+SKU000743,Mayora Appliances Product 43,Mayora,Electronics,Appliances,Appliances Type C,SUP392,56127.12,62967.66,False,False,436
+SKU000744,Indofood Appliances Product 44,Indofood,Electronics,Appliances,Appliances Type D,SUP427,448773.63,513691.56,False,False,180
+SKU000745,Samsung Appliances Product 45,Samsung,Electronics,Appliances,Appliances Type E,SUP300,136886.06,179323.01,False,False,183
+SKU000746,LG Appliances Product 46,LG,Electronics,Appliances,Appliances Type A,SUP472,241679.02,295132.09,False,False,251
+SKU000747,Indofood Appliances Product 47,Indofood,Electronics,Appliances,Appliances Type B,SUP499,195289.82,255200.52,False,False,673
+SKU000748,MegaMart Own Appliances Product 48,MegaMart Own,Electronics,Appliances,Appliances Type C,SUP270,269975.52,377285.5,True,False,490
+SKU000749,Unilever Appliances Product 49,Unilever,Electronics,Appliances,Appliances Type D,SUP274,185850.9,252014.31,False,False,262
+SKU000750,Mayora Appliances Product 50,Mayora,Electronics,Appliances,Appliances Type E,SUP120,325657.32,375478.17,False,False,573
+SKU000751,Mayora Accessories Product 1,Mayora,Electronics,Accessories,Accessories Type A,SUP422,349461.73,478391.51,False,False,547
+SKU000752,LG Accessories Product 2,LG,Electronics,Accessories,Accessories Type B,SUP198,368985.47,421375.09,False,False,205
+SKU000753,Wings Accessories Product 3,Wings,Electronics,Accessories,Accessories Type C,SUP376,247170.11,276558.09,False,False,495
+SKU000754,LG Accessories Product 4,LG,Electronics,Accessories,Accessories Type D,SUP273,483454.2,534180.87,False,False,237
+SKU000755,Indofood Accessories Product 5,Indofood,Electronics,Accessories,Accessories Type E,SUP434,205726.39,239363.37,False,False,715
+SKU000756,Local Brand Accessories Product 6,Local Brand,Electronics,Accessories,Accessories Type A,SUP136,78732.05,100289.18,False,False,217
+SKU000757,LG Accessories Product 7,LG,Electronics,Accessories,Accessories Type B,SUP416,328646.61,407970.69,False,False,226
+SKU000758,Nestle Accessories Product 8,Nestle,Electronics,Accessories,Accessories Type C,SUP257,12110.78,15620.47,False,False,279
+SKU000759,Nestle Accessories Product 9,Nestle,Electronics,Accessories,Accessories Type D,SUP154,418499.32,468379.12,False,False,296
+SKU000760,Wings Accessories Product 10,Wings,Electronics,Accessories,Accessories Type E,SUP272,36239.51,42066.55,False,False,591
+SKU000761,Local Brand Accessories Product 11,Local Brand,Electronics,Accessories,Accessories Type A,SUP209,72978.05,98588.1,False,False,226
+SKU000762,ABC Accessories Product 12,ABC,Electronics,Accessories,Accessories Type B,SUP487,36294.83,42906.59,False,False,605
+SKU000763,ABC Accessories Product 13,ABC,Electronics,Accessories,Accessories Type C,SUP397,278936.83,343538.14,False,False,221
+SKU000764,MegaMart Own Accessories Product 14,MegaMart Own,Electronics,Accessories,Accessories Type D,SUP292,396570.89,511440.97,True,False,341
+SKU000765,MegaMart Own Accessories Product 15,MegaMart Own,Electronics,Accessories,Accessories Type E,SUP191,246048.9,271122.48,True,False,271
+SKU000766,Mayora Accessories Product 16,Mayora,Electronics,Accessories,Accessories Type A,SUP495,211030.01,283249.45,False,False,667
+SKU000767,Wings Accessories Product 17,Wings,Electronics,Accessories,Accessories Type B,SUP330,75828.49,89575.05,False,False,601
+SKU000768,Nestle Accessories Product 18,Nestle,Electronics,Accessories,Accessories Type C,SUP192,307216.3,341405.28,False,False,691
+SKU000769,Unilever Accessories Product 19,Unilever,Electronics,Accessories,Accessories Type D,SUP278,315459.87,421067.92,False,False,608
+SKU000770,MegaMart Own Accessories Product 20,MegaMart Own,Electronics,Accessories,Accessories Type E,SUP371,121641.31,138093.58,True,False,277
+SKU000771,Local Brand Accessories Product 21,Local Brand,Electronics,Accessories,Accessories Type A,SUP420,256232.67,317540.13,False,False,393
+SKU000772,Wings Accessories Product 22,Wings,Electronics,Accessories,Accessories Type B,SUP342,60776.17,69574.45,False,False,689
+SKU000773,Indofood Accessories Product 23,Indofood,Electronics,Accessories,Accessories Type C,SUP207,31743.67,38386.28,False,False,625
+SKU000774,LG Accessories Product 24,LG,Electronics,Accessories,Accessories Type D,SUP375,26442.15,34959.83,False,False,360
+SKU000775,Indofood Accessories Product 25,Indofood,Electronics,Accessories,Accessories Type E,SUP220,245105.39,278150.38,False,False,635
+SKU000776,ABC Accessories Product 26,ABC,Electronics,Accessories,Accessories Type A,SUP266,212437.81,281294.43,False,False,415
+SKU000777,ABC Accessories Product 27,ABC,Electronics,Accessories,Accessories Type B,SUP311,117752.12,137903.69,False,False,384
+SKU000778,Wings Accessories Product 28,Wings,Electronics,Accessories,Accessories Type C,SUP127,41397.21,52803.29,False,False,626
+SKU000779,MegaMart Own Accessories Product 29,MegaMart Own,Electronics,Accessories,Accessories Type D,SUP298,464304.12,574110.77,True,False,562
+SKU000780,MegaMart Own Accessories Product 30,MegaMart Own,Electronics,Accessories,Accessories Type E,SUP238,361311.5,465949.6,True,False,387
+SKU000781,Indofood Accessories Product 31,Indofood,Electronics,Accessories,Accessories Type A,SUP169,347644.21,388629.9,False,False,293
+SKU000782,LG Accessories Product 32,LG,Electronics,Accessories,Accessories Type B,SUP212,212020.8,281585.22,False,False,482
+SKU000783,Nestle Accessories Product 33,Nestle,Electronics,Accessories,Accessories Type C,SUP217,291170.12,368570.91,False,False,268
+SKU000784,Local Brand Accessories Product 34,Local Brand,Electronics,Accessories,Accessories Type D,SUP402,247160.63,345703.4,False,False,664
+SKU000785,Mayora Accessories Product 35,Mayora,Electronics,Accessories,Accessories Type E,SUP226,12179.41,14961.59,False,False,433
+SKU000786,Wings Accessories Product 36,Wings,Electronics,Accessories,Accessories Type A,SUP176,446452.2,570356.74,False,False,185
+SKU000787,Indofood Accessories Product 37,Indofood,Electronics,Accessories,Accessories Type B,SUP493,24829.05,30817.71,False,False,696
+SKU000788,MegaMart Own Accessories Product 38,MegaMart Own,Electronics,Accessories,Accessories Type C,SUP456,267905.25,333215.41,True,False,280
+SKU000789,Wings Accessories Product 39,Wings,Electronics,Accessories,Accessories Type D,SUP454,46130.3,61165.25,False,False,596
+SKU000790,Nestle Accessories Product 40,Nestle,Electronics,Accessories,Accessories Type E,SUP146,182410.81,213734.16,False,False,196
+SKU000791,Mayora Accessories Product 41,Mayora,Electronics,Accessories,Accessories Type A,SUP392,85092.4,105326.08,False,False,204
+SKU000792,LG Accessories Product 42,LG,Electronics,Accessories,Accessories Type B,SUP307,387058.33,527273.97,False,False,369
+SKU000793,ABC Accessories Product 43,ABC,Electronics,Accessories,Accessories Type C,SUP100,315271.42,413374.62,False,False,252
+SKU000794,ABC Accessories Product 44,ABC,Electronics,Accessories,Accessories Type D,SUP485,267805.56,318414.65,False,False,456
+SKU000795,Local Brand Accessories Product 45,Local Brand,Electronics,Accessories,Accessories Type E,SUP450,289738.54,336717.88,False,False,262
+SKU000796,ABC Accessories Product 46,ABC,Electronics,Accessories,Accessories Type A,SUP445,369201.59,412192.72,False,False,552
+SKU000797,Unilever Accessories Product 47,Unilever,Electronics,Accessories,Accessories Type B,SUP120,194562.72,241181.09,False,False,554
+SKU000798,Local Brand Accessories Product 48,Local Brand,Electronics,Accessories,Accessories Type C,SUP496,353912.46,448841.5,False,False,389
+SKU000799,MegaMart Own Accessories Product 49,MegaMart Own,Electronics,Accessories,Accessories Type D,SUP432,170790.19,215518.46,True,False,669
+SKU000800,Wings Accessories Product 50,Wings,Electronics,Accessories,Accessories Type E,SUP264,377820.88,501846.54,False,False,541
+SKU000801,Local Brand Clothing Product 1,Local Brand,Fashion,Clothing,Clothing Type A,SUP132,341712.24,404294.65,False,False,561
+SKU000802,LG Clothing Product 2,LG,Fashion,Clothing,Clothing Type B,SUP340,253217.8,341557.37,False,False,724
+SKU000803,Local Brand Clothing Product 3,Local Brand,Fashion,Clothing,Clothing Type C,SUP288,450228.34,556299.22,False,False,247
+SKU000804,LG Clothing Product 4,LG,Fashion,Clothing,Clothing Type D,SUP191,48217.83,58690.97,False,False,475
+SKU000805,Unilever Clothing Product 5,Unilever,Fashion,Clothing,Clothing Type E,SUP456,59135.64,69944.62,False,False,331
+SKU000806,Wings Clothing Product 6,Wings,Fashion,Clothing,Clothing Type A,SUP250,262740.38,338457.65,False,False,606
+SKU000807,Local Brand Clothing Product 7,Local Brand,Fashion,Clothing,Clothing Type B,SUP315,466202.13,579102.99,False,False,634
+SKU000808,Indofood Clothing Product 8,Indofood,Fashion,Clothing,Clothing Type C,SUP218,149300.81,167050.41,False,False,712
+SKU000809,Samsung Clothing Product 9,Samsung,Fashion,Clothing,Clothing Type D,SUP267,291458.78,377942.8,False,False,677
+SKU000810,Local Brand Clothing Product 10,Local Brand,Fashion,Clothing,Clothing Type E,SUP255,421744.4,520254.15,False,False,315
+SKU000811,Mayora Clothing Product 11,Mayora,Fashion,Clothing,Clothing Type A,SUP347,90009.88,106031.84,False,False,560
+SKU000812,Indofood Clothing Product 12,Indofood,Fashion,Clothing,Clothing Type B,SUP185,78427.48,92961.24,False,False,344
+SKU000813,Mayora Clothing Product 13,Mayora,Fashion,Clothing,Clothing Type C,SUP462,95228.85,109761.52,False,False,337
+SKU000814,Unilever Clothing Product 14,Unilever,Fashion,Clothing,Clothing Type D,SUP164,25369.97,30316.8,False,False,631
+SKU000815,Nestle Clothing Product 15,Nestle,Fashion,Clothing,Clothing Type E,SUP440,106551.9,139811.04,False,False,504
+SKU000816,Nestle Clothing Product 16,Nestle,Fashion,Clothing,Clothing Type A,SUP183,189592.89,239258.64,False,False,726
+SKU000817,Indofood Clothing Product 17,Indofood,Fashion,Clothing,Clothing Type B,SUP174,205258.35,256537.03,False,False,649
+SKU000818,Nestle Clothing Product 18,Nestle,Fashion,Clothing,Clothing Type C,SUP359,7125.68,9416.93,False,False,519
+SKU000819,Mayora Clothing Product 19,Mayora,Fashion,Clothing,Clothing Type D,SUP486,239585.78,284375.9,False,False,330
+SKU000820,LG Clothing Product 20,LG,Fashion,Clothing,Clothing Type E,SUP345,172648.79,195731.02,False,False,221
+SKU000821,MegaMart Own Clothing Product 21,MegaMart Own,Fashion,Clothing,Clothing Type A,SUP305,277725.2,331166.38,True,False,405
+SKU000822,Unilever Clothing Product 22,Unilever,Fashion,Clothing,Clothing Type B,SUP199,166551.4,213593.07,False,False,719
+SKU000823,Mayora Clothing Product 23,Mayora,Fashion,Clothing,Clothing Type C,SUP328,101879.26,114622.0,False,False,269
+SKU000824,Samsung Clothing Product 24,Samsung,Fashion,Clothing,Clothing Type D,SUP409,101252.77,121030.2,False,False,703
+SKU000825,ABC Clothing Product 25,ABC,Fashion,Clothing,Clothing Type E,SUP318,201791.21,265312.89,False,False,558
+SKU000826,Indofood Clothing Product 26,Indofood,Fashion,Clothing,Clothing Type A,SUP328,145901.93,175871.14,False,False,269
+SKU000827,LG Clothing Product 27,LG,Fashion,Clothing,Clothing Type B,SUP326,372056.2,455650.88,False,False,475
+SKU000828,Samsung Clothing Product 28,Samsung,Fashion,Clothing,Clothing Type C,SUP400,365659.73,447661.9,False,False,268
+SKU000829,MegaMart Own Clothing Product 29,MegaMart Own,Fashion,Clothing,Clothing Type D,SUP368,155099.41,216598.61,True,False,523
+SKU000830,MegaMart Own Clothing Product 30,MegaMart Own,Fashion,Clothing,Clothing Type E,SUP145,480247.17,637208.38,True,False,186
+SKU000831,Mayora Clothing Product 31,Mayora,Fashion,Clothing,Clothing Type A,SUP463,210184.44,266249.91,False,False,320
+SKU000832,Samsung Clothing Product 32,Samsung,Fashion,Clothing,Clothing Type B,SUP254,148284.27,184936.54,False,False,491
+SKU000833,LG Clothing Product 33,LG,Fashion,Clothing,Clothing Type C,SUP178,116137.51,155318.34,False,False,448
+SKU000834,LG Clothing Product 34,LG,Fashion,Clothing,Clothing Type D,SUP247,66467.58,86392.83,False,False,607
+SKU000835,Wings Clothing Product 35,Wings,Fashion,Clothing,Clothing Type E,SUP352,19079.08,25364.02,False,False,248
+SKU000836,ABC Clothing Product 36,ABC,Fashion,Clothing,Clothing Type A,SUP232,292627.56,371541.13,False,False,667
+SKU000837,Unilever Clothing Product 37,Unilever,Fashion,Clothing,Clothing Type B,SUP108,189735.1,250428.93,False,False,445
+SKU000838,Indofood Clothing Product 38,Indofood,Fashion,Clothing,Clothing Type C,SUP454,77337.87,95768.5,False,False,318
+SKU000839,Indofood Clothing Product 39,Indofood,Fashion,Clothing,Clothing Type D,SUP282,139971.83,171585.06,False,False,229
+SKU000840,Local Brand Clothing Product 40,Local Brand,Fashion,Clothing,Clothing Type E,SUP199,321278.53,360811.21,False,False,367
+SKU000841,Nestle Clothing Product 41,Nestle,Fashion,Clothing,Clothing Type A,SUP450,274137.61,373302.21,False,False,488
+SKU000842,ABC Clothing Product 42,ABC,Fashion,Clothing,Clothing Type B,SUP173,52437.54,66806.16,False,False,193
+SKU000843,MegaMart Own Clothing Product 43,MegaMart Own,Fashion,Clothing,Clothing Type C,SUP310,144301.79,192446.98,True,False,528
+SKU000844,Nestle Clothing Product 44,Nestle,Fashion,Clothing,Clothing Type D,SUP213,55696.84,63848.99,False,False,372
+SKU000845,Local Brand Clothing Product 45,Local Brand,Fashion,Clothing,Clothing Type E,SUP369,308647.04,416495.99,False,False,724
+SKU000846,Unilever Clothing Product 46,Unilever,Fashion,Clothing,Clothing Type A,SUP159,211586.4,290890.96,False,False,314
+SKU000847,LG Clothing Product 47,LG,Fashion,Clothing,Clothing Type B,SUP171,177363.91,231870.54,False,False,632
+SKU000848,Local Brand Clothing Product 48,Local Brand,Fashion,Clothing,Clothing Type C,SUP463,382976.83,460573.12,False,False,491
+SKU000849,MegaMart Own Clothing Product 49,MegaMart Own,Fashion,Clothing,Clothing Type D,SUP455,408214.18,476266.49,True,False,325
+SKU000850,Mayora Clothing Product 50,Mayora,Fashion,Clothing,Clothing Type E,SUP140,67045.37,76369.07,False,False,615
+SKU000851,Unilever Footwear Product 1,Unilever,Fashion,Footwear,Footwear Type A,SUP487,43478.97,57931.71,False,False,621
+SKU000852,MegaMart Own Footwear Product 2,MegaMart Own,Fashion,Footwear,Footwear Type B,SUP362,58369.6,78093.65,True,False,240
+SKU000853,Mayora Footwear Product 3,Mayora,Fashion,Footwear,Footwear Type C,SUP105,26424.34,31458.01,False,False,278
+SKU000854,Wings Footwear Product 4,Wings,Fashion,Footwear,Footwear Type D,SUP443,295863.51,343203.84,False,False,539
+SKU000855,MegaMart Own Footwear Product 5,MegaMart Own,Fashion,Footwear,Footwear Type E,SUP242,77050.7,102004.29,True,False,536
+SKU000856,Local Brand Footwear Product 6,Local Brand,Fashion,Footwear,Footwear Type A,SUP358,391497.06,502637.96,False,False,249
+SKU000857,MegaMart Own Footwear Product 7,MegaMart Own,Fashion,Footwear,Footwear Type B,SUP211,291176.17,321515.36,True,False,376
+SKU000858,Nestle Footwear Product 8,Nestle,Fashion,Footwear,Footwear Type C,SUP471,451321.84,569179.1,False,False,281
+SKU000859,Local Brand Footwear Product 9,Local Brand,Fashion,Footwear,Footwear Type D,SUP457,426391.92,529755.57,False,False,369
+SKU000860,Unilever Footwear Product 10,Unilever,Fashion,Footwear,Footwear Type E,SUP294,94520.03,114033.38,False,False,614
+SKU000861,Wings Footwear Product 11,Wings,Fashion,Footwear,Footwear Type A,SUP260,206751.1,274652.88,False,False,306
+SKU000862,Local Brand Footwear Product 12,Local Brand,Fashion,Footwear,Footwear Type B,SUP460,72276.62,96032.65,False,False,475
+SKU000863,Indofood Footwear Product 13,Indofood,Fashion,Footwear,Footwear Type C,SUP297,45712.73,57054.69,False,False,470
+SKU000864,Mayora Footwear Product 14,Mayora,Fashion,Footwear,Footwear Type D,SUP215,345088.05,466671.91,False,False,597
+SKU000865,Samsung Footwear Product 15,Samsung,Fashion,Footwear,Footwear Type E,SUP343,98448.57,110349.3,False,False,556
+SKU000866,LG Footwear Product 16,LG,Fashion,Footwear,Footwear Type A,SUP367,337687.26,411610.69,False,False,267
+SKU000867,MegaMart Own Footwear Product 17,MegaMart Own,Fashion,Footwear,Footwear Type B,SUP152,200431.67,262267.07,True,False,352
+SKU000868,MegaMart Own Footwear Product 18,MegaMart Own,Fashion,Footwear,Footwear Type C,SUP404,487727.71,586048.49,True,False,593
+SKU000869,MegaMart Own Footwear Product 19,MegaMart Own,Fashion,Footwear,Footwear Type D,SUP242,419864.02,553196.1,True,False,459
+SKU000870,Samsung Footwear Product 20,Samsung,Fashion,Footwear,Footwear Type E,SUP307,181268.17,235649.18,False,False,676
+SKU000871,Nestle Footwear Product 21,Nestle,Fashion,Footwear,Footwear Type A,SUP228,385159.78,436159.17,False,False,681
+SKU000872,Nestle Footwear Product 22,Nestle,Fashion,Footwear,Footwear Type B,SUP134,19713.14,26047.75,False,False,690
+SKU000873,Nestle Footwear Product 23,Nestle,Fashion,Footwear,Footwear Type C,SUP178,194403.33,253455.54,False,False,490
+SKU000874,Unilever Footwear Product 24,Unilever,Fashion,Footwear,Footwear Type D,SUP366,381284.86,495031.35,False,False,684
+SKU000875,Wings Footwear Product 25,Wings,Fashion,Footwear,Footwear Type E,SUP358,150313.65,187797.32,False,False,447
+SKU000876,Local Brand Footwear Product 26,Local Brand,Fashion,Footwear,Footwear Type A,SUP116,275576.92,381887.37,False,False,620
+SKU000877,Unilever Footwear Product 27,Unilever,Fashion,Footwear,Footwear Type B,SUP292,194896.79,232778.44,False,False,633
+SKU000878,Indofood Footwear Product 28,Indofood,Fashion,Footwear,Footwear Type C,SUP499,92550.24,120113.86,False,False,490
+SKU000879,Nestle Footwear Product 29,Nestle,Fashion,Footwear,Footwear Type D,SUP466,248282.41,283127.97,False,False,578
+SKU000880,Unilever Footwear Product 30,Unilever,Fashion,Footwear,Footwear Type E,SUP383,286583.34,357417.03,False,False,661
+SKU000881,Nestle Footwear Product 31,Nestle,Fashion,Footwear,Footwear Type A,SUP353,255809.1,311425.95,False,False,566
+SKU000882,ABC Footwear Product 32,ABC,Fashion,Footwear,Footwear Type B,SUP131,384403.03,455644.93,False,False,208
+SKU000883,Nestle Footwear Product 33,Nestle,Fashion,Footwear,Footwear Type C,SUP479,419282.41,505094.02,False,False,207
+SKU000884,ABC Footwear Product 34,ABC,Fashion,Footwear,Footwear Type D,SUP282,193383.82,237561.28,False,False,601
+SKU000885,Wings Footwear Product 35,Wings,Fashion,Footwear,Footwear Type E,SUP403,127568.9,165128.35,False,False,266
+SKU000886,Unilever Footwear Product 36,Unilever,Fashion,Footwear,Footwear Type A,SUP186,435125.28,493580.61,False,False,200
+SKU000887,Indofood Footwear Product 37,Indofood,Fashion,Footwear,Footwear Type B,SUP390,233150.15,316853.52,False,False,707
+SKU000888,Mayora Footwear Product 38,Mayora,Fashion,Footwear,Footwear Type C,SUP111,15099.13,18736.66,False,False,504
+SKU000889,Samsung Footwear Product 39,Samsung,Fashion,Footwear,Footwear Type D,SUP350,164598.58,185884.09,False,False,282
+SKU000890,Wings Footwear Product 40,Wings,Fashion,Footwear,Footwear Type E,SUP491,171303.89,214272.14,False,False,527
+SKU000891,Mayora Footwear Product 41,Mayora,Fashion,Footwear,Footwear Type A,SUP354,184850.48,227513.48,False,False,257
+SKU000892,Local Brand Footwear Product 42,Local Brand,Fashion,Footwear,Footwear Type B,SUP252,110969.65,130893.87,False,False,591
+SKU000893,Unilever Footwear Product 43,Unilever,Fashion,Footwear,Footwear Type C,SUP403,360264.89,458782.2,False,False,524
+SKU000894,Local Brand Footwear Product 44,Local Brand,Fashion,Footwear,Footwear Type D,SUP139,240257.84,279401.07,False,False,489
+SKU000895,Mayora Footwear Product 45,Mayora,Fashion,Footwear,Footwear Type E,SUP202,219290.69,276741.4,False,False,604
+SKU000896,Local Brand Footwear Product 46,Local Brand,Fashion,Footwear,Footwear Type A,SUP192,229348.16,304811.2,False,False,199
+SKU000897,Local Brand Footwear Product 47,Local Brand,Fashion,Footwear,Footwear Type B,SUP209,432041.35,550011.53,False,False,658
+SKU000898,Local Brand Footwear Product 48,Local Brand,Fashion,Footwear,Footwear Type C,SUP322,405422.07,549684.38,False,False,241
+SKU000899,ABC Footwear Product 49,ABC,Fashion,Footwear,Footwear Type D,SUP482,233930.91,274193.27,False,False,487
+SKU000900,Samsung Footwear Product 50,Samsung,Fashion,Footwear,Footwear Type E,SUP132,162733.32,219537.71,False,False,388
+SKU000901,Mayora Bags Product 1,Mayora,Fashion,Bags,Bags Type A,SUP231,412736.8,534004.15,False,False,421
+SKU000902,Unilever Bags Product 2,Unilever,Fashion,Bags,Bags Type B,SUP258,79231.31,87812.95,False,False,655
+SKU000903,Samsung Bags Product 3,Samsung,Fashion,Bags,Bags Type C,SUP203,213899.47,293405.19,False,False,343
+SKU000904,Indofood Bags Product 4,Indofood,Fashion,Bags,Bags Type D,SUP437,132906.44,178235.7,False,False,360
+SKU000905,Indofood Bags Product 5,Indofood,Fashion,Bags,Bags Type E,SUP110,482074.51,600545.57,False,False,236
+SKU000906,Unilever Bags Product 6,Unilever,Fashion,Bags,Bags Type A,SUP132,160382.86,190758.37,False,False,596
+SKU000907,Unilever Bags Product 7,Unilever,Fashion,Bags,Bags Type B,SUP171,201463.05,272366.59,False,False,421
+SKU000908,MegaMart Own Bags Product 8,MegaMart Own,Fashion,Bags,Bags Type C,SUP367,368567.8,508579.57,True,False,717
+SKU000909,Unilever Bags Product 9,Unilever,Fashion,Bags,Bags Type D,SUP260,122848.04,139639.28,False,False,517
+SKU000910,Samsung Bags Product 10,Samsung,Fashion,Bags,Bags Type E,SUP316,403891.6,534424.39,False,False,403
+SKU000911,MegaMart Own Bags Product 11,MegaMart Own,Fashion,Bags,Bags Type A,SUP325,91701.36,127554.49,True,False,598
+SKU000912,Indofood Bags Product 12,Indofood,Fashion,Bags,Bags Type B,SUP157,247727.5,300347.67,False,False,504
+SKU000913,LG Bags Product 13,LG,Fashion,Bags,Bags Type C,SUP174,342955.53,476363.38,False,False,551
+SKU000914,ABC Bags Product 14,ABC,Fashion,Bags,Bags Type D,SUP410,411575.86,455335.54,False,False,215
+SKU000915,Indofood Bags Product 15,Indofood,Fashion,Bags,Bags Type E,SUP222,346887.82,463664.42,False,False,439
+SKU000916,Mayora Bags Product 16,Mayora,Fashion,Bags,Bags Type A,SUP450,321279.78,420935.96,False,False,304
+SKU000917,Wings Bags Product 17,Wings,Fashion,Bags,Bags Type B,SUP301,429535.33,522547.47,False,False,441
+SKU000918,Wings Bags Product 18,Wings,Fashion,Bags,Bags Type C,SUP182,152224.34,206694.02,False,False,629
+SKU000919,Samsung Bags Product 19,Samsung,Fashion,Bags,Bags Type D,SUP141,395712.11,467815.19,False,False,683
+SKU000920,Samsung Bags Product 20,Samsung,Fashion,Bags,Bags Type E,SUP316,463616.12,556254.35,False,False,282
+SKU000921,Mayora Bags Product 21,Mayora,Fashion,Bags,Bags Type A,SUP408,255635.58,308183.24,False,False,514
+SKU000922,Indofood Bags Product 22,Indofood,Fashion,Bags,Bags Type B,SUP194,382177.85,493931.18,False,False,634
+SKU000923,Nestle Bags Product 23,Nestle,Fashion,Bags,Bags Type C,SUP256,6522.52,7566.27,False,False,501
+SKU000924,Unilever Bags Product 24,Unilever,Fashion,Bags,Bags Type D,SUP493,83122.11,104310.75,False,False,313
+SKU000925,Samsung Bags Product 25,Samsung,Fashion,Bags,Bags Type E,SUP344,397357.94,475168.47,False,False,316
+SKU000926,ABC Bags Product 26,ABC,Fashion,Bags,Bags Type A,SUP312,400766.69,464728.7,False,False,556
+SKU000927,Samsung Bags Product 27,Samsung,Fashion,Bags,Bags Type B,SUP214,472654.79,645316.73,False,False,201
+SKU000928,Local Brand Bags Product 28,Local Brand,Fashion,Bags,Bags Type C,SUP145,325317.81,419005.5,False,False,653
+SKU000929,Nestle Bags Product 29,Nestle,Fashion,Bags,Bags Type D,SUP407,29642.57,38102.6,False,False,446
+SKU000930,MegaMart Own Bags Product 30,MegaMart Own,Fashion,Bags,Bags Type E,SUP390,479226.27,551607.1,True,False,300
+SKU000931,MegaMart Own Bags Product 31,MegaMart Own,Fashion,Bags,Bags Type A,SUP332,265289.66,353367.9,True,False,686
+SKU000932,MegaMart Own Bags Product 32,MegaMart Own,Fashion,Bags,Bags Type B,SUP500,358214.04,414512.12,True,False,452
+SKU000933,LG Bags Product 33,LG,Fashion,Bags,Bags Type C,SUP205,194126.39,238657.54,False,False,400
+SKU000934,Mayora Bags Product 34,Mayora,Fashion,Bags,Bags Type D,SUP192,364720.49,421911.93,False,False,598
+SKU000935,Indofood Bags Product 35,Indofood,Fashion,Bags,Bags Type E,SUP416,148645.52,175184.67,False,False,641
+SKU000936,ABC Bags Product 36,ABC,Fashion,Bags,Bags Type A,SUP143,293537.02,379887.0,False,False,190
+SKU000937,ABC Bags Product 37,ABC,Fashion,Bags,Bags Type B,SUP208,487327.59,594182.16,False,False,572
+SKU000938,Mayora Bags Product 38,Mayora,Fashion,Bags,Bags Type C,SUP126,41162.53,52157.04,False,False,520
+SKU000939,LG Bags Product 39,LG,Fashion,Bags,Bags Type D,SUP443,454572.14,635956.35,False,False,226
+SKU000940,MegaMart Own Bags Product 40,MegaMart Own,Fashion,Bags,Bags Type E,SUP302,254748.29,309336.09,True,False,559
+SKU000941,MegaMart Own Bags Product 41,MegaMart Own,Fashion,Bags,Bags Type A,SUP191,446651.84,496827.59,True,False,446
+SKU000942,LG Bags Product 42,LG,Fashion,Bags,Bags Type B,SUP167,465511.84,634664.42,False,False,271
+SKU000943,Local Brand Bags Product 43,Local Brand,Fashion,Bags,Bags Type C,SUP260,219300.18,258362.32,False,False,225
+SKU000944,LG Bags Product 44,LG,Fashion,Bags,Bags Type D,SUP482,436481.38,589442.44,False,False,549
+SKU000945,Mayora Bags Product 45,Mayora,Fashion,Bags,Bags Type E,SUP489,451882.37,532753.46,False,False,450
+SKU000946,Samsung Bags Product 46,Samsung,Fashion,Bags,Bags Type A,SUP351,446872.55,533862.05,False,False,334
+SKU000947,LG Bags Product 47,LG,Fashion,Bags,Bags Type B,SUP217,31344.98,35877.03,False,False,367
+SKU000948,MegaMart Own Bags Product 48,MegaMart Own,Fashion,Bags,Bags Type C,SUP323,133810.86,175531.6,True,False,298
+SKU000949,LG Bags Product 49,LG,Fashion,Bags,Bags Type D,SUP463,25191.9,30405.52,False,False,676
+SKU000950,Unilever Bags Product 50,Unilever,Fashion,Bags,Bags Type E,SUP163,423689.98,576245.4,False,False,537
